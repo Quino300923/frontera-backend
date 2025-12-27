@@ -1,0 +1,2401 @@
+{
+  "01409": {
+    "imagenPrincipal": "/imagenes/motos/01409/Blitz_110_black_edition_4_1762978079717.jpg",
+    "miniaturas": [
+      "/imagenes/motos/01409/BLITZ_110_BLACK_EDITION_DETALLE_-_2_1762978080118.jpg",
+      "/imagenes/motos/01409/BLITZ_110_BLACK_EDITION_DETALLE_-_3_1762978080341.jpg",
+      "/imagenes/motos/01409/BLITZ_110_BLACK_EDITION_DETALLE_-_4_1762978080628.jpg",
+      "/imagenes/motos/01409/BLITZ_110_BLACK_EDITION_DETALLE_-_5_1762978080808.jpg",
+      "/imagenes/motos/01409/BLITZ_110_BLACK_EDITION_DETALLE_-_6_1762978081014.jpg",
+      "/imagenes/motos/01409/BLITZ_110_BLACK_EDITION_DETALLE_-_7_1762978081346.jpg",
+      "/imagenes/motos/01409/BLITZ_110_BLACK_EDITION_DETALLE_-_8_1762978081616.jpg",
+      "/imagenes/motos/01409/BLITZ_110_BLACK_EDITION_DETALLE_-_9_1762978082023.jpg"
+    ],
+    "colores": [
+      "negro"
+    ],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-12T20:08:02.156Z"
+  },
+  "000016": {
+    "imagenPrincipal": "/imagenes/motos/000016/BLITZ AUTOMÃTICA NEGRA CON CBS 02 (1).png",
+    "miniaturas": [
+      "/imagenes/motos/000016/BLITZ AUTOMÃTICA NEGRA CON CBS 04.png",
+      "/imagenes/motos/000016/BLITZ AUTOMÃTICA NEGRA CON CBS 03.png",
+      "/imagenes/motos/000016/BLITZ AUTOMÃTICA NEGRA CON CBS 01.png",
+      "/imagenes/motos/000016/Detalles Blitz Automatica (1).jpg",
+      "/imagenes/motos/000016/Detalles Blitz Automatica (2).jpg",
+      "/imagenes/motos/000016/Detalles Blitz Automatica (3).jpg",
+      "/imagenes/motos/000016/Detalles Blitz Automatica (4).jpg",
+      "/imagenes/motos/000016/Detalles Blitz Automatica (5).jpg",
+      "/imagenes/motos/000016/Detalles Blitz Automatica (6).jpg",
+      "/imagenes/motos/000016/Detalles Blitz Automatica CON CBS(7).png"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T04:48:40.680Z"
+  },
+  "000017": {
+    "imagenPrincipal": "/imagenes/motos/000017/BLITZ AUTOMATICA ROJA CON CBS 02 (1).png",
+    "miniaturas": [
+      "/imagenes/motos/000017/BLITZ AUTOMATICA ROJA CON CBS 04.png",
+      "/imagenes/motos/000017/BLITZ AUTOMATICA ROJA CON CBS 03.png",
+      "/imagenes/motos/000017/BLITZ AUTOMATICA ROJA CON CBS 01.png",
+      "/imagenes/motos/000017/Detalles Blitz Automatica (1).jpg",
+      "/imagenes/motos/000017/Detalles Blitz Automatica (2).jpg",
+      "/imagenes/motos/000017/Detalles Blitz Automatica (3).jpg",
+      "/imagenes/motos/000017/Detalles Blitz Automatica (4).jpg",
+      "/imagenes/motos/000017/Detalles Blitz Automatica (5).jpg",
+      "/imagenes/motos/000017/Detalles Blitz Automatica (6).jpg",
+      "/imagenes/motos/000017/Detalles Blitz Automatica CON CBS(7).png"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T04:55:54.077Z"
+  },
+  "000018": {
+    "imagenPrincipal": "/imagenes/motos/000018/BLITZ AUTOMÃTICA AZUL CON CBS 02.png",
+    "miniaturas": [
+      "/imagenes/motos/000018/BLITZ AUTOMÃTICA AZUL CON CBS 04.png",
+      "/imagenes/motos/000018/BLITZ AUTOMÃTICA AZUL CON CBS 03.png",
+      "/imagenes/motos/000018/BLITZ AUTOMÃTICA AZUL CON CBS 01 (1).png",
+      "/imagenes/motos/000018/Detalles Blitz Automatica (1).jpg",
+      "/imagenes/motos/000018/Detalles Blitz Automatica (2).jpg",
+      "/imagenes/motos/000018/Detalles Blitz Automatica (3).jpg",
+      "/imagenes/motos/000018/Detalles Blitz Automatica (4).jpg",
+      "/imagenes/motos/000018/Detalles Blitz Automatica (5).jpg",
+      "/imagenes/motos/000018/Detalles Blitz Automatica (6).jpg",
+      "/imagenes/motos/000018/Detalles Blitz Automatica CON CBS(7).png"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T05:00:03.870Z"
+  },
+  "000019": {
+    "imagenPrincipal": "/imagenes/motos/000019/Blitz-110-v8WHITE.png",
+    "miniaturas": [
+      "/imagenes/motos/000019/Blitz-110-v8WHITE.png"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T05:10:34.853Z"
+  },
+  "000020": {
+    "imagenPrincipal": "/imagenes/motos/000020/Blitz-110-v8BLACK.png",
+    "miniaturas": [
+      "/imagenes/motos/000020/Blitz-110-v8BLACK.png"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T05:14:59.846Z"
+  },
+  "000021": {
+    "imagenPrincipal": "/imagenes/motos/000021/Blitz-110-v8RED.png",
+    "miniaturas": [
+      "/imagenes/motos/000021/Blitz-110-v8RED.png"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T05:16:04.617Z"
+  },
+  "000015": {
+    "imagenPrincipal": "/imagenes/motos/000015/BLITZ AUTOMÃTICA BLANCA CON CBS 02 (1).png",
+    "miniaturas": [
+      "/imagenes/motos/000015/BLITZ AUTOMÃTICA BLANCA CON CBS 04.png",
+      "/imagenes/motos/000015/BLITZ AUTOMÃTICA BLANCA CON CBS 03.png",
+      "/imagenes/motos/000015/BLITZ AUTOMÃTICA BLANCA CON CBS 01.png",
+      "/imagenes/motos/000015/Detalles Blitz Automatica (1).jpg",
+      "/imagenes/motos/000015/Detalles Blitz Automatica (2).jpg",
+      "/imagenes/motos/000015/Detalles Blitz Automatica (3).jpg",
+      "/imagenes/motos/000015/Detalles Blitz Automatica (4).jpg",
+      "/imagenes/motos/000015/Detalles Blitz Automatica (5).jpg",
+      "/imagenes/motos/000015/Detalles Blitz Automatica (6).jpg",
+      "/imagenes/motos/000015/Detalles Blitz Automatica CON CBS(7).png"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T05:19:35.834Z"
+  },
+  "000023": {
+    "imagenPrincipal": "/imagenes/motos/000023/DLX ROJA CON CBS 02.png",
+    "miniaturas": [
+      "/imagenes/motos/000023/DLX ROJA CON CBS 04.png",
+      "/imagenes/motos/000023/DLX ROJA CON CBS 03.png",
+      "/imagenes/motos/000023/DLX ROJA CON CBS 01.png",
+      "/imagenes/motos/000023/DETALLE CON CBS DLX.jpg",
+      "/imagenes/motos/000023/DETALLE DLX (1).jpg",
+      "/imagenes/motos/000023/DETALLE DLX (2).jpg",
+      "/imagenes/motos/000023/DETALLE DLX (3).jpg",
+      "/imagenes/motos/000023/DETALLE DLX (7).jpg",
+      "/imagenes/motos/000023/DETALLE DLX (9).jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T05:26:00.514Z"
+  },
+  "000024": {
+    "imagenPrincipal": "/imagenes/motos/000024/DLX AZUL CBS 02.png",
+    "miniaturas": [
+      "/imagenes/motos/000024/DLX AZUL CBS 04.png",
+      "/imagenes/motos/000024/DLX AZUL CBS 03.png",
+      "/imagenes/motos/000024/DLX AZUL CBS 01.png",
+      "/imagenes/motos/000024/DETALLE CON CBS DLX.jpg",
+      "/imagenes/motos/000024/DETALLE DLX (1).jpg",
+      "/imagenes/motos/000024/DETALLE DLX (2).jpg",
+      "/imagenes/motos/000024/DETALLE DLX (3).jpg",
+      "/imagenes/motos/000024/DETALLE DLX (7).jpg",
+      "/imagenes/motos/000024/DETALLE DLX (9).jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T05:27:51.147Z"
+  },
+  "000025": {
+    "imagenPrincipal": "/imagenes/motos/000025/DLX NEGRA CON CBS 03.png",
+    "miniaturas": [
+      "/imagenes/motos/000025/DLX NEGRA CON CBS 04.png",
+      "/imagenes/motos/000025/DLX NEGRA CON CBS 01.png",
+      "/imagenes/motos/000025/DLX NEGRA CON CBS 02.png",
+      "/imagenes/motos/000025/DETALLE CON CBS DLX.jpg",
+      "/imagenes/motos/000025/DETALLE DLX (1).jpg",
+      "/imagenes/motos/000025/DETALLE DLX (2).jpg",
+      "/imagenes/motos/000025/DETALLE DLX (3).jpg",
+      "/imagenes/motos/000025/DETALLE DLX (7).jpg",
+      "/imagenes/motos/000025/DETALLE DLX (9).jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T05:31:13.760Z"
+  },
+  "000026": {
+    "imagenPrincipal": "/imagenes/motos/000026/STRATOe vistas (5).png",
+    "miniaturas": [
+      "/imagenes/motos/000026/STRATOe detalles (1).jpg",
+      "/imagenes/motos/000026/STRATOe detalles (5).jpg",
+      "/imagenes/motos/000026/STRATOe detalles (11).jpg",
+      "/imagenes/motos/000026/STRATOe detalles (22).png",
+      "/imagenes/motos/000026/STRATOe detalles (21).jpg",
+      "/imagenes/motos/000026/STRATOe detalles (17).jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T05:40:34.667Z"
+  },
+  "000027": {
+    "imagenPrincipal": "/imagenes/motos/000027/strato_bordo.png",
+    "miniaturas": [
+      "/imagenes/motos/000027/StratoEuro150-7-495x400.jpg",
+      "/imagenes/motos/000027/StratoEuro-150-6-495x400.jpg",
+      "/imagenes/motos/000027/StratoEuro150-5-495x400.jpg",
+      "/imagenes/motos/000027/StratoEuro-150-4-495x400.jpg",
+      "/imagenes/motos/000027/StratoEuro150-3-495x400.jpg",
+      "/imagenes/motos/000027/StratoEuro150-1-495x400.jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T05:48:54.897Z"
+  },
+  "000028": {
+    "imagenPrincipal": "/imagenes/motos/000028/StratoEuro150-slider-verde.png",
+    "miniaturas": [
+      "/imagenes/motos/000028/StratoEuro150-7-495x400.jpg",
+      "/imagenes/motos/000028/StratoEuro-150-6-495x400.jpg",
+      "/imagenes/motos/000028/StratoEuro150-5-495x400.jpg",
+      "/imagenes/motos/000028/StratoEuro-150-4-495x400.jpg",
+      "/imagenes/motos/000028/StratoEuro150-3-495x400.jpg",
+      "/imagenes/motos/000028/StratoEuro150-1-495x400.jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T05:52:29.575Z"
+  },
+  "000022": {
+    "imagenPrincipal": "/imagenes/motos/000022/Blitz-Tunning-110-slider-blanco.png",
+    "miniaturas": [
+      "/imagenes/motos/000022/Blitz-Tunning-110-9-1-495x400.jpg",
+      "/imagenes/motos/000022/Blitz-Tunning-110-7-1-495x400.jpg",
+      "/imagenes/motos/000022/Blitz-Tunning-110-13-495x400.jpg",
+      "/imagenes/motos/000022/Blitz-Tunning-110-5-1-495x400.jpg",
+      "/imagenes/motos/000022/Blitz-Tunning-110-4-1-495x400.jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T05:58:06.260Z"
+  },
+  "000030": {
+    "imagenPrincipal": "/imagenes/motos/000030/chocolate.png",
+    "miniaturas": [
+      "/imagenes/motos/000030/StratoAlpino150_asiento_asas-845x684.jpg",
+      "/imagenes/motos/000030/StratoAlpino150_banda-blanca-cubiertas-845x684.jpg",
+      "/imagenes/motos/000030/StratoAlpino150_bauÌl-portacasco-845x684.jpg",
+      "/imagenes/motos/000030/StratoAlpino150_logo-845x684.jpg",
+      "/imagenes/motos/000030/StratoAlpino150_luces-led-845x684.jpg",
+      "/imagenes/motos/000030/StratoAlpino150_luces-traseras-845x684.jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T06:07:07.913Z"
+  },
+  "000031": {
+    "imagenPrincipal": "/imagenes/motos/000031/verde.png",
+    "miniaturas": [
+      "/imagenes/motos/000031/StratoAlpino150_asiento_asas-845x684.jpg",
+      "/imagenes/motos/000031/StratoAlpino150_banda-blanca-cubiertas-845x684.jpg",
+      "/imagenes/motos/000031/StratoAlpino150_bauÌl-portacasco-845x684.jpg",
+      "/imagenes/motos/000031/StratoAlpino150_logo-845x684.jpg",
+      "/imagenes/motos/000031/StratoAlpino150_luces-led-845x684.jpg",
+      "/imagenes/motos/000031/StratoAlpino150_luces-traseras-845x684.jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T12:24:06.874Z"
+  },
+  "000032": {
+    "imagenPrincipal": "/imagenes/motos/000032/blanco (4).png",
+    "miniaturas": [
+      "/imagenes/motos/000032/Max110-6-495x400.jpg",
+      "/imagenes/motos/000032/Max110-4-495x400.jpg",
+      "/imagenes/motos/000032/Max110-3-495x400.jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T12:29:26.451Z"
+  },
+  "000033": {
+    "imagenPrincipal": "/imagenes/motos/000033/negro (4).png",
+    "miniaturas": [
+      "/imagenes/motos/000033/Max110-3-495x400.jpg",
+      "/imagenes/motos/000033/Max110-4-495x400.jpg",
+      "/imagenes/motos/000033/Max110-6-495x400.jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T12:36:40.955Z"
+  },
+  "000034": {
+    "imagenPrincipal": "/imagenes/motos/000034/rojo (5).png",
+    "miniaturas": [
+      "/imagenes/motos/000034/Max110-3-495x400.jpg",
+      "/imagenes/motos/000034/Max110-4-495x400.jpg",
+      "/imagenes/motos/000034/Max110-6-495x400.jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T12:40:19.349Z"
+  },
+  "000029": {
+    "imagenPrincipal": "/imagenes/motos/000029/StratoAlpino150-slider-negro.png",
+    "miniaturas": [
+      "/imagenes/motos/000029/StratoAlpino150_asiento_asas-845x684.jpg",
+      "/imagenes/motos/000029/StratoAlpino150_banda-blanca-cubiertas-845x684.jpg",
+      "/imagenes/motos/000029/StratoAlpino150_bauÌl-portacasco-845x684.jpg",
+      "/imagenes/motos/000029/StratoAlpino150_logo-845x684.jpg",
+      "/imagenes/motos/000029/StratoAlpino150_luces-led-845x684.jpg",
+      "/imagenes/motos/000029/StratoAlpino150_luces-traseras-845x684.jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T12:43:13.078Z"
+  },
+  "000035": {
+    "imagenPrincipal": "/imagenes/motos/000035/S2 BASE GRIS CON CBS 04.png",
+    "miniaturas": [
+      "/imagenes/motos/000035/S2 BASE GRIS CON CBS 01.png",
+      "/imagenes/motos/000035/S2 BASE GRIS CON CBS 02.png",
+      "/imagenes/motos/000035/S2 BASE GRIS CON CBS 03.png",
+      "/imagenes/motos/000035/134A5433.jpg",
+      "/imagenes/motos/000035/134A5443.jpg",
+      "/imagenes/motos/000035/134A5450.jpg",
+      "/imagenes/motos/000035/134A5456.jpg",
+      "/imagenes/motos/000035/134A5464.jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T12:57:29.404Z"
+  },
+  "000036": {
+    "imagenPrincipal": "/imagenes/motos/000036/S2 BASE NEGRA CON CBS 04.png",
+    "miniaturas": [
+      "/imagenes/motos/000036/S2 BASE NEGRA CON CBS 01.png",
+      "/imagenes/motos/000036/S2 BASE NEGRA CON CBS 02.png",
+      "/imagenes/motos/000036/S2 BASE NEGRA CON CBS 03.png",
+      "/imagenes/motos/000036/134A5433.jpg",
+      "/imagenes/motos/000036/134A5443.jpg",
+      "/imagenes/motos/000036/134A5450.jpg",
+      "/imagenes/motos/000036/134A5456.jpg",
+      "/imagenes/motos/000036/134A5464.jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T15:11:00.349Z"
+  },
+  "000037": {
+    "imagenPrincipal": "/imagenes/motos/000037/S2 BASE ROJA CON CBS 04.png",
+    "miniaturas": [
+      "/imagenes/motos/000037/S2 BASE ROJA CON CBS 01.png",
+      "/imagenes/motos/000037/S2 BASE ROJA CON CBS 02.png",
+      "/imagenes/motos/000037/S2 BASE ROJA CON CBS 03.png",
+      "/imagenes/motos/000037/134A5433.jpg",
+      "/imagenes/motos/000037/134A5443.jpg",
+      "/imagenes/motos/000037/134A5450.jpg",
+      "/imagenes/motos/000037/134A5456.jpg",
+      "/imagenes/motos/000037/134A5464.jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T15:12:42.783Z"
+  },
+  "000038": {
+    "imagenPrincipal": "/imagenes/motos/000038/S2 BASE AZUL CON CBS 04.png",
+    "miniaturas": [
+      "/imagenes/motos/000038/S2 BASE AZUL CON CBS 01.png",
+      "/imagenes/motos/000038/S2 BASE AZUL CON CBS 02.png",
+      "/imagenes/motos/000038/S2 BASE AZUL CON CBS 03.png",
+      "/imagenes/motos/000038/134A5433.jpg",
+      "/imagenes/motos/000038/134A5443.jpg",
+      "/imagenes/motos/000038/134A5450.jpg",
+      "/imagenes/motos/000038/134A5456.jpg",
+      "/imagenes/motos/000038/134A5464.jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T15:14:40.940Z"
+  },
+  "000039": {
+    "imagenPrincipal": "/imagenes/motos/000039/MOTOMEL4462.jpg",
+    "miniaturas": [
+      "/imagenes/motos/000039/MOTOMEL4453.jpg",
+      "/imagenes/motos/000039/MOTOMEL4455.jpg",
+      "/imagenes/motos/000039/MOTOMEL4460.jpg",
+      "/imagenes/motos/000039/134A5387.jpg",
+      "/imagenes/motos/000039/134A5399.jpg",
+      "/imagenes/motos/000039/134A5419.jpg",
+      "/imagenes/motos/000039/134A5366.jpg",
+      "/imagenes/motos/000039/134A5367.jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T15:19:58.274Z"
+  },
+  "000040": {
+    "imagenPrincipal": "/imagenes/motos/000040/S2 150 FULL vte negra 1.jpg",
+    "miniaturas": [
+      "/imagenes/motos/000040/S2 150 FULL vte negra 4.jpg",
+      "/imagenes/motos/000040/S2 150 FULL vte negra 2.jpg",
+      "/imagenes/motos/000040/S2 150 FULL vte negra 5.jpg",
+      "/imagenes/motos/000040/134A5387.jpg",
+      "/imagenes/motos/000040/134A5399.jpg",
+      "/imagenes/motos/000040/134A5419.jpg",
+      "/imagenes/motos/000040/134A5366.jpg",
+      "/imagenes/motos/000040/134A5367.jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T15:22:22.708Z"
+  },
+  "000041": {
+    "imagenPrincipal": "/imagenes/motos/000041/S2-150-FULL-vte-roja-1.jpg",
+    "miniaturas": [
+      "/imagenes/motos/000041/S2-150-FULL-vte-roja-2.jpg",
+      "/imagenes/motos/000041/S2-150-FULL-vte-roja-4.jpg",
+      "/imagenes/motos/000041/S2-150-FULL-vte-roja-5.jpg",
+      "/imagenes/motos/000041/134A5366.jpg",
+      "/imagenes/motos/000041/134A5367.jpg",
+      "/imagenes/motos/000041/134A5387.jpg",
+      "/imagenes/motos/000041/134A5399.jpg",
+      "/imagenes/motos/000041/134A5419.jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T15:24:54.248Z"
+  },
+  "000042": {
+    "imagenPrincipal": "/imagenes/motos/000042/S2 150 FULL vte azul 1.jpg",
+    "miniaturas": [
+      "/imagenes/motos/000042/S2 150 FULL vte azul 4.jpg",
+      "/imagenes/motos/000042/S2 150 FULL vte azul 2.jpg",
+      "/imagenes/motos/000042/S2 150 FULL vte azul 5.jpg",
+      "/imagenes/motos/000042/134A5366.jpg",
+      "/imagenes/motos/000042/134A5367.jpg",
+      "/imagenes/motos/000042/134A5387.jpg",
+      "/imagenes/motos/000042/134A5399.jpg",
+      "/imagenes/motos/000042/134A5419.jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T15:26:12.002Z"
+  },
+  "000046": {
+    "imagenPrincipal": "/imagenes/motos/000046/negra (3).png",
+    "miniaturas": [
+      "/imagenes/motos/000046/Skua125-Extreme-5-1-495x400.jpg",
+      "/imagenes/motos/000046/Skua125-Extreme-3-1-495x400.jpg",
+      "/imagenes/motos/000046/Skua125-Extreme-2-1-495x400.jpg",
+      "/imagenes/motos/000046/Skua125-Extreme-1-1-495x400.jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T15:31:26.298Z"
+  },
+  "000047": {
+    "imagenPrincipal": "/imagenes/motos/000047/roja.png",
+    "miniaturas": [
+      "/imagenes/motos/000047/Skua125-Extreme-1-1-495x400.jpg",
+      "/imagenes/motos/000047/Skua125-Extreme-2-1-495x400.jpg",
+      "/imagenes/motos/000047/Skua125-Extreme-3-1-495x400.jpg",
+      "/imagenes/motos/000047/Skua125-Extreme-5-1-495x400.jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T15:33:42.248Z"
+  },
+  "000048": {
+    "imagenPrincipal": "/imagenes/motos/000048/azul (1).png",
+    "miniaturas": [
+      "/imagenes/motos/000048/Skua125-Extreme-1-1-495x400.jpg",
+      "/imagenes/motos/000048/Skua125-Extreme-2-1-495x400.jpg",
+      "/imagenes/motos/000048/Skua125-Extreme-3-1-495x400.jpg",
+      "/imagenes/motos/000048/Skua125-Extreme-5-1-495x400.jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T15:35:35.955Z"
+  },
+  "000049": {
+    "imagenPrincipal": "/imagenes/motos/000049/Skua-150-arena.png",
+    "miniaturas": [
+      "/imagenes/motos/000049/Skua150-4-495x400.jpg",
+      "/imagenes/motos/000049/Skua150-5-495x400.jpg",
+      "/imagenes/motos/000049/Skua150-7-495x400.jpg",
+      "/imagenes/motos/000049/Skua150-tablero-2-495x400.jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T15:53:17.466Z"
+  },
+  "000050": {
+    "imagenPrincipal": "/imagenes/motos/000050/Skua-150-negro.png",
+    "miniaturas": [
+      "/imagenes/motos/000050/Skua150-4-495x400.jpg",
+      "/imagenes/motos/000050/Skua150-5-495x400.jpg",
+      "/imagenes/motos/000050/Skua150-7-495x400.jpg",
+      "/imagenes/motos/000050/Skua150-tablero-2-495x400.jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T15:55:25.800Z"
+  },
+  "000051": {
+    "imagenPrincipal": "/imagenes/motos/000051/Skua-150-rojo.png",
+    "miniaturas": [
+      "/imagenes/motos/000051/Skua150-4-495x400.jpg",
+      "/imagenes/motos/000051/Skua150-5-495x400.jpg",
+      "/imagenes/motos/000051/Skua150-7-495x400.jpg",
+      "/imagenes/motos/000051/Skua150-tablero-2-495x400.jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T15:57:51.037Z"
+  },
+  "000052": {
+    "imagenPrincipal": "/imagenes/motos/000052/Skua-150-azul.png",
+    "miniaturas": [
+      "/imagenes/motos/000052/Skua150-4-495x400.jpg",
+      "/imagenes/motos/000052/Skua150-5-495x400.jpg",
+      "/imagenes/motos/000052/Skua150-7-495x400.jpg",
+      "/imagenes/motos/000052/Skua150-tablero-2-495x400.jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T15:59:18.240Z"
+  },
+  "000053": {
+    "imagenPrincipal": "/imagenes/motos/000053/Skua-Silver-Edition-slider-silver.png",
+    "miniaturas": [
+      "/imagenes/motos/000053/Skua-Silver-Edition-3-495x400.jpg",
+      "/imagenes/motos/000053/Skua-Silver-Edition-2-495x400.jpg",
+      "/imagenes/motos/000053/Skua-Silver-Edition-5-495x400.jpg",
+      "/imagenes/motos/000053/Skua-Silver-Edition-7-495x400.jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T16:02:56.509Z"
+  },
+  "000055": {
+    "imagenPrincipal": "/imagenes/motos/000055/Skua250-slider-negro.png",
+    "miniaturas": [
+      "/imagenes/motos/000055/Skua250-1-495x400.jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T16:07:13.847Z"
+  },
+  "000056": {
+    "imagenPrincipal": "/imagenes/motos/000056/Skua250-slider-rojo.png",
+    "miniaturas": [
+      "/imagenes/motos/000056/Skua250-1-495x400.jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T16:08:59.577Z"
+  },
+  "000057": {
+    "imagenPrincipal": "/imagenes/motos/000057/Skua250-slider-azul.png",
+    "miniaturas": [
+      "/imagenes/motos/000057/Skua250-1-495x400.jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T16:10:47.497Z"
+  },
+  "000058": {
+    "imagenPrincipal": "/imagenes/motos/000058/skua-250-adventure-2022-roja.png",
+    "miniaturas": [
+      "/imagenes/motos/000058/Motomel-Skua-250-Adventure-4-495x400.jpeg",
+      "/imagenes/motos/000058/Motomel-Skua-250-Adventure-8-495x400.jpeg",
+      "/imagenes/motos/000058/Motomel-Skua-250-Adventure-7-495x400.jpeg",
+      "/imagenes/motos/000058/Motomel-Skua-250-Adventure-6-495x400.jpeg",
+      "/imagenes/motos/000058/Motomel-Skua-250-Adventure-2-495x400.jpeg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T16:16:33.440Z"
+  },
+  "000059": {
+    "imagenPrincipal": "/imagenes/motos/000059/skua-250-adventure-2022-azul.png",
+    "miniaturas": [
+      "/imagenes/motos/000059/Motomel-Skua-250-Adventure-4-495x400.jpeg",
+      "/imagenes/motos/000059/Motomel-Skua-250-Adventure-8-495x400.jpeg",
+      "/imagenes/motos/000059/Motomel-Skua-250-Adventure-7-495x400.jpeg",
+      "/imagenes/motos/000059/Motomel-Skua-250-Adventure-6-495x400.jpeg",
+      "/imagenes/motos/000059/Motomel-Skua-250-Adventure-2-495x400.jpeg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T16:18:05.310Z"
+  },
+  "000060": {
+    "imagenPrincipal": "/imagenes/motos/000060/xxm-250-negro-1.png",
+    "miniaturas": [
+      "/imagenes/motos/000060/MOTOMEL_XMM_250_2020_DETALLES_09-495x400.jpeg",
+      "/imagenes/motos/000060/MOTOMEL_XMM_250_2020_DETALLES_06-495x400.jpeg",
+      "/imagenes/motos/000060/MOTOMEL_XMM_250_2020_DETALLES_05-495x400.jpeg",
+      "/imagenes/motos/000060/MOTOMEL_XMM_250_2020_DETALLES_04-495x400.jpeg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T16:24:50.603Z"
+  },
+  "000061": {
+    "imagenPrincipal": "/imagenes/motos/000061/xxm-250-azul-1.png",
+    "miniaturas": [
+      "/imagenes/motos/000061/MOTOMEL_XMM_250_2020_DETALLES_04-495x400.jpeg",
+      "/imagenes/motos/000061/MOTOMEL_XMM_250_2020_DETALLES_05-495x400.jpeg",
+      "/imagenes/motos/000061/MOTOMEL_XMM_250_2020_DETALLES_06-495x400.jpeg",
+      "/imagenes/motos/000061/MOTOMEL_XMM_250_2020_DETALLES_09-495x400.jpeg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T16:26:26.594Z"
+  },
+  "000062": {
+    "imagenPrincipal": "/imagenes/motos/000062/xxm-250-naranja-1.png",
+    "miniaturas": [
+      "/imagenes/motos/000062/MOTOMEL_XMM_250_2020_DETALLES_04-495x400.jpeg",
+      "/imagenes/motos/000062/MOTOMEL_XMM_250_2020_DETALLES_05-495x400.jpeg",
+      "/imagenes/motos/000062/MOTOMEL_XMM_250_2020_DETALLES_06-495x400.jpeg",
+      "/imagenes/motos/000062/MOTOMEL_XMM_250_2020_DETALLES_09-495x400.jpeg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T16:27:21.175Z"
+  },
+  "000006": {
+    "imagenPrincipal": "/imagenes/motos/000006/Blitz-110-Full-blanco.png",
+    "miniaturas": [
+      "/imagenes/motos/000006/2_230429-Motomel-Dia-3-0218-495x400.jpg",
+      "/imagenes/motos/000006/7_230429-Motomel-Dia-3-0243_RD-495x400.jpg",
+      "/imagenes/motos/000006/8_230429-Motomel-Dia-3-0269-495x400.jpg",
+      "/imagenes/motos/000006/4_230429-Motomel-Dia-3-0235-495x400.jpg",
+      "/imagenes/motos/000006/1_230429-Motomel-Dia-3-0301-495x400.jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T16:43:36.192Z"
+  },
+  "000007": {
+    "imagenPrincipal": "/imagenes/motos/000007/Blitz-110-Full-negro.png",
+    "miniaturas": [
+      "/imagenes/motos/000007/1_230429-Motomel-Dia-3-0301-495x400.jpg",
+      "/imagenes/motos/000007/2_230429-Motomel-Dia-3-0218-495x400.jpg",
+      "/imagenes/motos/000007/4_230429-Motomel-Dia-3-0235-495x400.jpg",
+      "/imagenes/motos/000007/7_230429-Motomel-Dia-3-0243_RD-495x400.jpg",
+      "/imagenes/motos/000007/8_230429-Motomel-Dia-3-0269-495x400.jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T16:46:06.486Z"
+  },
+  "000008": {
+    "imagenPrincipal": "/imagenes/motos/000008/Blitz-110-Full-rojo.png",
+    "miniaturas": [
+      "/imagenes/motos/000008/1_230429-Motomel-Dia-3-0301-495x400.jpg",
+      "/imagenes/motos/000008/2_230429-Motomel-Dia-3-0218-495x400.jpg",
+      "/imagenes/motos/000008/4_230429-Motomel-Dia-3-0235-495x400.jpg",
+      "/imagenes/motos/000008/7_230429-Motomel-Dia-3-0243_RD-495x400.jpg",
+      "/imagenes/motos/000008/8_230429-Motomel-Dia-3-0269-495x400.jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T16:47:24.763Z"
+  },
+  "000009": {
+    "imagenPrincipal": "/imagenes/motos/000009/Blitz-110-Full-azul.png",
+    "miniaturas": [
+      "/imagenes/motos/000009/1_230429-Motomel-Dia-3-0301-495x400.jpg",
+      "/imagenes/motos/000009/2_230429-Motomel-Dia-3-0218-495x400.jpg",
+      "/imagenes/motos/000009/4_230429-Motomel-Dia-3-0235-495x400.jpg",
+      "/imagenes/motos/000009/7_230429-Motomel-Dia-3-0243_RD-495x400.jpg",
+      "/imagenes/motos/000009/8_230429-Motomel-Dia-3-0269-495x400.jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T16:48:36.534Z"
+  },
+  "000011": {
+    "imagenPrincipal": "/imagenes/motos/000011/BlitzPlus-slider-blanco.png",
+    "miniaturas": [
+      "/imagenes/motos/000011/MOTOMEL - BLITZ 110 PLUS - DETALLES - 37.jpg",
+      "/imagenes/motos/000011/230427 Motomel Dia 0127384.jpg",
+      "/imagenes/motos/000011/230427 Motomel Dia 0127368.jpg",
+      "/imagenes/motos/000011/230427 Motomel Dia 0127273.jpg",
+      "/imagenes/motos/000011/230427 Motomel Dia 0127235.jpg",
+      "/imagenes/motos/000011/230427 Motomel Dia 0127228.jpg",
+      "/imagenes/motos/000011/230427 Motomel Dia 0127223.jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T16:53:56.545Z"
+  },
+  "000012": {
+    "imagenPrincipal": "/imagenes/motos/000012/BlitzPlus-slider-negro.png",
+    "miniaturas": [
+      "/imagenes/motos/000012/230427 Motomel Dia 0127223.jpg",
+      "/imagenes/motos/000012/230427 Motomel Dia 0127228.jpg",
+      "/imagenes/motos/000012/230427 Motomel Dia 0127235.jpg",
+      "/imagenes/motos/000012/230427 Motomel Dia 0127273.jpg",
+      "/imagenes/motos/000012/230427 Motomel Dia 0127368.jpg",
+      "/imagenes/motos/000012/230427 Motomel Dia 0127384.jpg",
+      "/imagenes/motos/000012/MOTOMEL - BLITZ 110 PLUS - DETALLES - 37.jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T16:55:49.007Z"
+  },
+  "000013": {
+    "imagenPrincipal": "/imagenes/motos/000013/BlitzPlus-slider-rojo.png",
+    "miniaturas": [
+      "/imagenes/motos/000013/230427 Motomel Dia 0127223.jpg",
+      "/imagenes/motos/000013/MOTOMEL - BLITZ 110 PLUS - DETALLES - 37.jpg",
+      "/imagenes/motos/000013/230427 Motomel Dia 0127228.jpg",
+      "/imagenes/motos/000013/230427 Motomel Dia 0127235.jpg",
+      "/imagenes/motos/000013/230427 Motomel Dia 0127273.jpg",
+      "/imagenes/motos/000013/230427 Motomel Dia 0127368.jpg",
+      "/imagenes/motos/000013/230427 Motomel Dia 0127384.jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T16:57:36.465Z"
+  },
+  "000014": {
+    "imagenPrincipal": "/imagenes/motos/000014/BlitzPlus-slider-azul.png",
+    "miniaturas": [
+      "/imagenes/motos/000014/230427 Motomel Dia 0127223.jpg",
+      "/imagenes/motos/000014/230427 Motomel Dia 0127228.jpg",
+      "/imagenes/motos/000014/230427 Motomel Dia 0127235.jpg",
+      "/imagenes/motos/000014/230427 Motomel Dia 0127273.jpg",
+      "/imagenes/motos/000014/230427 Motomel Dia 0127368.jpg",
+      "/imagenes/motos/000014/230427 Motomel Dia 0127384.jpg",
+      "/imagenes/motos/000014/MOTOMEL - BLITZ 110 PLUS - DETALLES - 37.jpg"
+    ],
+    "colores": [],
+    "descripcionExtra": "",
+    "precioManual": null,
+    "updatedAt": "2025-11-13T16:58:24.407Z"
+  },
+  "000124": {
+    "codigoarticulo": "000124",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000124/7_1763124745087.png",
+    "miniaturas": [
+      "/imagenes/motos/000124/1_1763124745371.png",
+      "/imagenes/motos/000124/2_1763124745512.png",
+      "/imagenes/motos/000124/3_1763124745772.png",
+      "/imagenes/motos/000124/8_1763124745776.png",
+      "/imagenes/motos/000124/BENELLI_-_TNT_600i_-_Detalle__3__1763124746296.png",
+      "/imagenes/motos/000124/BENELLI_-_TNT_600i_-_Detalle__6__1763124746662.png",
+      "/imagenes/motos/000124/BENELLI_-_TNT_600i_-_Detalle__11__1763124746958.png",
+      "/imagenes/motos/000124/BENELLI_-_TNT_600i_-_Detalle__25__1763124747097.png",
+      "/imagenes/motos/000124/BENELLI_-_TNT_600i_-_Detalle__32__1763124747548.png"
+    ]
+  },
+  "000125": {
+    "codigoarticulo": "000125",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000125/7_1763124856235.png",
+    "miniaturas": [
+      "/imagenes/motos/000125/1_1763124856322.png",
+      "/imagenes/motos/000125/2_1763124856483.png",
+      "/imagenes/motos/000125/8_1763124856636.png",
+      "/imagenes/motos/000125/3_1763124856752.png",
+      "/imagenes/motos/000125/BENELLI_-_TNT_600i_-_Detalle__3__1763124856820.png",
+      "/imagenes/motos/000125/BENELLI_-_TNT_600i_-_Detalle__6__1763124856935.png",
+      "/imagenes/motos/000125/BENELLI_-_TNT_600i_-_Detalle__11__1763124857127.png",
+      "/imagenes/motos/000125/BENELLI_-_TNT_600i_-_Detalle__25__1763124857226.png",
+      "/imagenes/motos/000125/BENELLI_-_TNT_600i_-_Detalle__32__1763124857431.png"
+    ]
+  },
+  "000123": {
+    "codigoarticulo": "000123",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000123/7_1763125090933.png",
+    "miniaturas": [
+      "/imagenes/motos/000123/1_1763125091026.png",
+      "/imagenes/motos/000123/8_1763125091066.png",
+      "/imagenes/motos/000123/2_1763125091244.png",
+      "/imagenes/motos/000123/3_1763125091371.png",
+      "/imagenes/motos/000123/BENELLI_-_TNT_600i_-_Detalle__3__1763125091754.png",
+      "/imagenes/motos/000123/BENELLI_-_TNT_600i_-_Detalle__6__1763125091972.png",
+      "/imagenes/motos/000123/BENELLI_-_TNT_600i_-_Detalle__11__1763125093765.png",
+      "/imagenes/motos/000123/BENELLI_-_TNT_600i_-_Detalle__25__1763125093911.png",
+      "/imagenes/motos/000123/BENELLI_-_TNT_600i_-_Detalle__32__1763125094245.png"
+    ]
+  },
+  "000128": {
+    "codigoarticulo": "000128",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000128/7_1763125356701.png",
+    "miniaturas": [
+      "/imagenes/motos/000128/1_1763125356801.png",
+      "/imagenes/motos/000128/6_1763125356870.png",
+      "/imagenes/motos/000128/8_1763125356972.png",
+      "/imagenes/motos/000128/3_1763125357055.png",
+      "/imagenes/motos/000128/bp2Z0hVXTuu4yyTuNhTw_Leoncino_20250_2000016_1763125357122.png",
+      "/imagenes/motos/000128/OxFe98v7SQKVacYJRO9d_Leoncino_20250_2000020_1763125357192.png",
+      "/imagenes/motos/000128/sxmR3H64TgqtyqjClJvB_Leoncino_20250_20020_1763125357352.jpg",
+      "/imagenes/motos/000128/v2Y5vxMKR9WNCTvnam5A_Leoncino_20250_2000011_1763125357493.png",
+      "/imagenes/motos/000128/ZB9QJiMBQSys8CcIEzmD_Leoncino_20250_2000007_1763125357626.png"
+    ]
+  },
+  "000129": {
+    "codigoarticulo": "000129",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000129/7_1763125490909.png",
+    "miniaturas": [
+      "/imagenes/motos/000129/1_1763125490994.png",
+      "/imagenes/motos/000129/8_1763125491042.png",
+      "/imagenes/motos/000129/2_1763125491187.png",
+      "/imagenes/motos/000129/3_1763125491271.png",
+      "/imagenes/motos/000129/bp2Z0hVXTuu4yyTuNhTw_Leoncino_20250_2000016_1763125491362.png",
+      "/imagenes/motos/000129/OxFe98v7SQKVacYJRO9d_Leoncino_20250_2000020_1763125491446.png",
+      "/imagenes/motos/000129/sxmR3H64TgqtyqjClJvB_Leoncino_20250_20020_1763125491659.jpg",
+      "/imagenes/motos/000129/v2Y5vxMKR9WNCTvnam5A_Leoncino_20250_2000011_1763125491808.png",
+      "/imagenes/motos/000129/ZB9QJiMBQSys8CcIEzmD_Leoncino_20250_2000007_1763125491938.png"
+    ]
+  },
+  "000131": {
+    "codigoarticulo": "000131",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000131/7_1763125682853.jpg",
+    "miniaturas": [
+      "/imagenes/motos/000131/8_1763125682872.png",
+      "/imagenes/motos/000131/bp2Z0hVXTuu4yyTuNhTw_Leoncino_20250_2000016_1763125682931.png",
+      "/imagenes/motos/000131/OxFe98v7SQKVacYJRO9d_Leoncino_20250_2000020_1763125683014.png",
+      "/imagenes/motos/000131/sxmR3H64TgqtyqjClJvB_Leoncino_20250_20020_1763125683169.jpg",
+      "/imagenes/motos/000131/v2Y5vxMKR9WNCTvnam5A_Leoncino_20250_2000011_1763125683288.png",
+      "/imagenes/motos/000131/ZB9QJiMBQSys8CcIEzmD_Leoncino_20250_2000007_1763125683391.png"
+    ]
+  },
+  "000132": {
+    "codigoarticulo": "000132",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000132/LEONCINO_500_TRAIL_-_ESTUDIO_-_NEGRA_-_7_1763125982527.png",
+    "miniaturas": [
+      "/imagenes/motos/000132/LEONCINO_500_TRAIL_-_ESTUDIO_-_NEGRA_-_8_1763125982626.png",
+      "/imagenes/motos/000132/DETALLE_BENELLI-LEONCINO-84_1763125982701.jpg",
+      "/imagenes/motos/000132/DETALLE_BENELLI-LEONCINO-41_1763125982867.jpg",
+      "/imagenes/motos/000132/DETALLE_BENELLI-LEONCINO-83_1763125982955.jpg",
+      "/imagenes/motos/000132/STUDIO-LEONCINO-500-TRAIL-00043_1763125983051.png"
+    ]
+  },
+  "000133": {
+    "codigoarticulo": "000133",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000133/LEONCINO_500_TRAIL_-_ESTUDIO_-_ROJA_-_7_1763126213468.png",
+    "miniaturas": [
+      "/imagenes/motos/000133/LEONCINO_500_TRAIL_-_ESTUDIO_-_ROJA_-_8_1763126213543.png",
+      "/imagenes/motos/000133/DETALLE_BENELLI-LEONCINO-41_1763126213619.jpg",
+      "/imagenes/motos/000133/DETALLE_BENELLI-LEONCINO-83_1763126213702.jpg",
+      "/imagenes/motos/000133/DETALLE_BENELLI-LEONCINO-84_1763126213779.jpg",
+      "/imagenes/motos/000133/STUDIO-LEONCINO-500-TRAIL-00043_1763126213908.png"
+    ]
+  },
+  "000134": {
+    "codigoarticulo": "000134",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000134/LEONCINO_500_TRAIL_-_ESTUDIO_-_VERDE_-_8_1763126320617.png",
+    "miniaturas": [
+      "/imagenes/motos/000134/LEONCINO_500_TRAIL_-_ESTUDIO_-_VERDE_-_7_1763126320924.png",
+      "/imagenes/motos/000134/DETALLE_BENELLI-LEONCINO-41_1763126321426.jpg",
+      "/imagenes/motos/000134/DETALLE_BENELLI-LEONCINO-83_1763126321571.jpg",
+      "/imagenes/motos/000134/DETALLE_BENELLI-LEONCINO-84_1763126321724.jpg",
+      "/imagenes/motos/000134/STUDIO-LEONCINO-500-TRAIL-00043_1763126322048.png"
+    ]
+  },
+  "000135": {
+    "codigoarticulo": "000135",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000135/BENELLI_IMPERIALE_400_-_NEGRO_-_7_1763126463923.png",
+    "miniaturas": [
+      "/imagenes/motos/000135/BENELLI_IMPERIALE_400_-_DETALLES_-_3_1763126463986.png",
+      "/imagenes/motos/000135/BENELLI_IMPERIALE_400_-_DETALLES_-_2_1763126464065.png",
+      "/imagenes/motos/000135/BENELLI_IMPERIALE_400_-_DETALLES_-_1_1763126464113.png",
+      "/imagenes/motos/000135/BENELLI_IMPERIALE_400_-_NEGRO_-_1_1763126464184.png"
+    ]
+  },
+  "000136": {
+    "codigoarticulo": "000136",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000136/BENELLI_IMPERIALE_400_-_ROJO_-_7_1763126634825.png",
+    "miniaturas": [
+      "/imagenes/motos/000136/BENELLI_IMPERIALE_400_-_DETALLES_-_1_1763126634899.png",
+      "/imagenes/motos/000136/BENELLI_IMPERIALE_400_-_DETALLES_-_2_1763126634922.png",
+      "/imagenes/motos/000136/BENELLI_IMPERIALE_400_-_DETALLES_-_3_1763126634995.png",
+      "/imagenes/motos/000136/BENELLI_IMPERIALE_400_-_ROJO_-_1_1763126635058.png"
+    ]
+  },
+  "000130": {
+    "codigoarticulo": "000130",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000130/7_1763126803744.png",
+    "miniaturas": [
+      "/imagenes/motos/000130/1_1763126803812.png",
+      "/imagenes/motos/000130/bp2Z0hVXTuu4yyTuNhTw_Leoncino_20250_2000016_1763126803853.png",
+      "/imagenes/motos/000130/OxFe98v7SQKVacYJRO9d_Leoncino_20250_2000020_1763126803937.png",
+      "/imagenes/motos/000130/sxmR3H64TgqtyqjClJvB_Leoncino_20250_20020_1763126804093.jpg",
+      "/imagenes/motos/000130/v2Y5vxMKR9WNCTvnam5A_Leoncino_20250_2000011_1763126804203.png",
+      "/imagenes/motos/000130/ZB9QJiMBQSys8CcIEzmD_Leoncino_20250_2000007_1763126804332.png"
+    ]
+  },
+  "000138": {
+    "codigoarticulo": "000138",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000138/BENELLI_TRK251Full_blancalateralder_1763127007397.png",
+    "miniaturas": [
+      "/imagenes/motos/000138/BENELLI_TRK251Full_blancafrente_1763127007524.png",
+      "/imagenes/motos/000138/BENELLI_TRK_251_todas_Detalles_v2_1763127007649.png",
+      "/imagenes/motos/000138/BENELLI_TRK_251_todas_Detalles_v3_1763127007717.png",
+      "/imagenes/motos/000138/BENELLI_TRK_251_todas_Detalles_v4_1763127007949.png",
+      "/imagenes/motos/000138/BENELLI_TRK_251FULL_Detallesv3_1763127008007.png"
+    ]
+  },
+  "000139": {
+    "codigoarticulo": "000139",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000139/BENELLI_trk_251_negra_1763127205985.png",
+    "miniaturas": [
+      "/imagenes/motos/000139/BENELLI_TRK_251_todas_Detalles_v2_1763127206041.png",
+      "/imagenes/motos/000139/BENELLI_TRK_251_todas_Detalles_v3_1763127206116.png",
+      "/imagenes/motos/000139/BENELLI_TRK_251_todas_Detalles_v4_1763127206397.png",
+      "/imagenes/motos/000139/BENELLI_TRK_251FULL_Detallesv3_1763127206475.png"
+    ]
+  },
+  "000140": {
+    "codigoarticulo": "000140",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000140/BENELLI_TRK_251_roja_1763127258619.png",
+    "miniaturas": [
+      "/imagenes/motos/000140/BENELLI_TRK_251_todas_Detalles_v2_1763127258646.png",
+      "/imagenes/motos/000140/BENELLI_TRK_251_todas_Detalles_v3_1763127258684.png",
+      "/imagenes/motos/000140/BENELLI_TRK_251_todas_Detalles_v4_1763127258802.png",
+      "/imagenes/motos/000140/BENELLI_TRK_251FULL_Detallesv3_1763127258866.png"
+    ]
+  },
+  "000141": {
+    "codigoarticulo": "000141",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000141/7_1763127636420.png",
+    "miniaturas": [
+      "/imagenes/motos/000141/1_1763127636567.png",
+      "/imagenes/motos/000141/dqdUIUAeTaatDD56DJFB_TRK_20502_2000018_1763127636666.png",
+      "/imagenes/motos/000141/MXQ3KymbSwiBuoqkY8Pw_TRK_20502_202020_2000073_1763127636992.png",
+      "/imagenes/motos/000141/P7rpatWYQ5YC90A1V1xc_TRK_20502_2000042_1763127637154.png",
+      "/imagenes/motos/000141/q6aapvw6Sq2CyaA3vOWr_TRK_20502_202020_2000068_1763127637333.png"
+    ]
+  },
+  "000142": {
+    "codigoarticulo": "000142",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000142/7_1763127822148.png",
+    "miniaturas": [
+      "/imagenes/motos/000142/1_1763127822368.png",
+      "/imagenes/motos/000142/dqdUIUAeTaatDD56DJFB_TRK_20502_2000018_1763127822443.png",
+      "/imagenes/motos/000142/MXQ3KymbSwiBuoqkY8Pw_TRK_20502_202020_2000073_1763127822664.png",
+      "/imagenes/motos/000142/P7rpatWYQ5YC90A1V1xc_TRK_20502_2000042_1763127822730.png",
+      "/imagenes/motos/000142/q6aapvw6Sq2CyaA3vOWr_TRK_20502_202020_2000068_1763127822896.png"
+    ]
+  },
+  "000143": {
+    "codigoarticulo": "000143",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000143/BENELLI_-_TRK_502_-_ROJO__7__1763128024189.jpg",
+    "miniaturas": [
+      "/imagenes/motos/000143/BENELLI_-_TRK_502_-_ROJO__1__1763128024204.png",
+      "/imagenes/motos/000143/dqdUIUAeTaatDD56DJFB_TRK_20502_2000018_1763128024233.png",
+      "/imagenes/motos/000143/MXQ3KymbSwiBuoqkY8Pw_TRK_20502_202020_2000073_1763128024391.png",
+      "/imagenes/motos/000143/P7rpatWYQ5YC90A1V1xc_TRK_20502_2000042_1763128024466.png",
+      "/imagenes/motos/000143/q6aapvw6Sq2CyaA3vOWr_TRK_20502_202020_2000068_1763128024582.png"
+    ]
+  },
+  "000137": {
+    "codigoarticulo": "000137",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000137/BENELLI_IMPERIALE_400_-_GRIS_-_7_1763128177539.png",
+    "miniaturas": [
+      "/imagenes/motos/000137/BENELLI_IMPERIALE_400_-_GRIS_-_1_1763128177613.png",
+      "/imagenes/motos/000137/BENELLI_IMPERIALE_400_-_DETALLES_-_1_1763128177654.png",
+      "/imagenes/motos/000137/BENELLI_IMPERIALE_400_-_DETALLES_-_2_1763128177707.png",
+      "/imagenes/motos/000137/BENELLI_IMPERIALE_400_-_DETALLES_-_3_1763128177753.png"
+    ]
+  },
+  "000145": {
+    "codigoarticulo": "000145",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000145/benelli_trk_502x_blanca_1763129452520.png",
+    "miniaturas": [
+      "/imagenes/motos/000145/1_1763129452563.png",
+      "/imagenes/motos/000145/C7XODL2RTRCRuMwyHb0J_TRK_20502X_2000024_1763129452734.png",
+      "/imagenes/motos/000145/K1bduPwQwGqs4DwKoaBw_TRK_20502X_2000012_1763129452793.png",
+      "/imagenes/motos/000145/MIkOwiOTL6yKWHj2L5Dw_TRK_20502X_2000037_1763129452973.png",
+      "/imagenes/motos/000145/tWj3fsZT1eKRXX8QMVTa_TRK_20502X_2000025_1763129453138.png"
+    ]
+  },
+  "000146": {
+    "codigoarticulo": "000146",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000146/7_1763129545531.png",
+    "miniaturas": [
+      "/imagenes/motos/000146/1__1__1763129545717.png",
+      "/imagenes/motos/000146/C7XODL2RTRCRuMwyHb0J_TRK_20502X_2000024_1763129545762.png",
+      "/imagenes/motos/000146/K1bduPwQwGqs4DwKoaBw_TRK_20502X_2000012_1763129545841.png",
+      "/imagenes/motos/000146/MIkOwiOTL6yKWHj2L5Dw_TRK_20502X_2000037_1763129545926.png",
+      "/imagenes/motos/000146/tWj3fsZT1eKRXX8QMVTa_TRK_20502X_2000025_1763129546008.png"
+    ]
+  },
+  "000147": {
+    "codigoarticulo": "000147",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000147/7_1763129723615.png",
+    "miniaturas": [
+      "/imagenes/motos/000147/1_1763129723954.png",
+      "/imagenes/motos/000147/C7XODL2RTRCRuMwyHb0J_TRK_20502X_2000024_1763129724028.png",
+      "/imagenes/motos/000147/K1bduPwQwGqs4DwKoaBw_TRK_20502X_2000012_1763129724063.png",
+      "/imagenes/motos/000147/MIkOwiOTL6yKWHj2L5Dw_TRK_20502X_2000037_1763129724159.png",
+      "/imagenes/motos/000147/tWj3fsZT1eKRXX8QMVTa_TRK_20502X_2000025_1763129724245.png"
+    ]
+  },
+  "000148": {
+    "codigoarticulo": "000148",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000148/7_1763129886615.png",
+    "miniaturas": [
+      "/imagenes/motos/000148/1_1763129886751.png",
+      "/imagenes/motos/000148/C7XODL2RTRCRuMwyHb0J_TRK_20502X_2000024_1763129886806.png",
+      "/imagenes/motos/000148/K1bduPwQwGqs4DwKoaBw_TRK_20502X_2000012_1763129886870.png",
+      "/imagenes/motos/000148/MIkOwiOTL6yKWHj2L5Dw_TRK_20502X_2000037_1763129887032.png",
+      "/imagenes/motos/000148/tWj3fsZT1eKRXX8QMVTa_TRK_20502X_2000025_1763129887121.png"
+    ]
+  },
+  "000149": {
+    "codigoarticulo": "000149",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000149/7_1763130019802.png",
+    "miniaturas": [
+      "/imagenes/motos/000149/1_1763130019906.png",
+      "/imagenes/motos/000149/C7XODL2RTRCRuMwyHb0J_TRK_20502X_2000024_1763130019942.png",
+      "/imagenes/motos/000149/K1bduPwQwGqs4DwKoaBw_TRK_20502X_2000012_1763130019980.png",
+      "/imagenes/motos/000149/MIkOwiOTL6yKWHj2L5Dw_TRK_20502X_2000037_1763130020159.png",
+      "/imagenes/motos/000149/tWj3fsZT1eKRXX8QMVTa_TRK_20502X_2000025_1763130020232.png"
+    ]
+  },
+  "000144": {
+    "codigoarticulo": "000144",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000144/BENELLI_-_TRK_502_-_AZUL__7__1763130104862.png",
+    "miniaturas": [
+      "/imagenes/motos/000144/BENELLI_-_TRK_502_-_AZUL__1__1763130104947.png",
+      "/imagenes/motos/000144/C7XODL2RTRCRuMwyHb0J_TRK_20502X_2000024_1763130104988.png",
+      "/imagenes/motos/000144/K1bduPwQwGqs4DwKoaBw_TRK_20502X_2000012_1763130105014.png",
+      "/imagenes/motos/000144/MIkOwiOTL6yKWHj2L5Dw_TRK_20502X_2000037_1763130105101.png",
+      "/imagenes/motos/000144/tWj3fsZT1eKRXX8QMVTa_TRK_20502X_2000025_1763130105184.png"
+    ]
+  },
+  "000105": {
+    "codigoarticulo": "000105",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000105/20250731-GE-BENELLI-BLANCA-3_1763130540864.png",
+    "miniaturas": [
+      "/imagenes/motos/000105/20250731-GE-BENELLI-BLANCA-4_1763130540911.png",
+      "/imagenes/motos/000105/20250731-GE-BENELLI-BLANCA-5_1763130540944.png",
+      "/imagenes/motos/000105/TNT_15_-_-ROJA_DETALLES_4_1763130540959.jpg",
+      "/imagenes/motos/000105/TNT_15_-_-ROJA_DETALLES_10_1763130541191.jpg",
+      "/imagenes/motos/000105/TNT_15_-_-ROJA_DETALLES_12_1763130541360.jpg"
+    ]
+  },
+  "000106": {
+    "codigoarticulo": "000106",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000106/20250731-GE-BENELLI-NEGRA-3_1763130714755.png",
+    "miniaturas": [
+      "/imagenes/motos/000106/20250731-GE-BENELLI-NEGRA-5_1763130714790.png",
+      "/imagenes/motos/000106/20250731-GE-BENELLI-NEGRA-4_1763130714797.png",
+      "/imagenes/motos/000106/TNT_15_-_-ROJA_DETALLES_4_1763130714818.jpg",
+      "/imagenes/motos/000106/TNT_15_-_-ROJA_DETALLES_10_1763130715053.jpg",
+      "/imagenes/motos/000106/TNT_15_-_-ROJA_DETALLES_12_1763130715208.jpg"
+    ]
+  },
+  "000107": {
+    "codigoarticulo": "000107",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000107/20250731-GE-BENELLI-ROJA-2_1763130898502.png",
+    "miniaturas": [
+      "/imagenes/motos/000107/20250731-GE-BENELLI-ROJA-4_1763130898548.png",
+      "/imagenes/motos/000107/20250731-GE-BENELLI-ROJA-3_1763130898574.png",
+      "/imagenes/motos/000107/TNT_15_-_-ROJA_DETALLES_4_1763130898588.jpg",
+      "/imagenes/motos/000107/TNT_15_-_-ROJA_DETALLES_10_1763130898871.jpg",
+      "/imagenes/motos/000107/TNT_15_-_-ROJA_DETALLES_12_1763130899060.jpg"
+    ]
+  },
+  "000108": {
+    "codigoarticulo": "000108",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000108/20250731-GE-BENELLI-VERDE-3_1763131019375.png",
+    "miniaturas": [
+      "/imagenes/motos/000108/20250731-GE-BENELLI-VERDE-4_1763131019436.png",
+      "/imagenes/motos/000108/20250731-GE-BENELLI-VERDE-2_1763131019447.png",
+      "/imagenes/motos/000108/TNT_15_-_-ROJA_DETALLES_4_1763131019464.jpg",
+      "/imagenes/motos/000108/TNT_15_-_-ROJA_DETALLES_10_1763131019691.jpg",
+      "/imagenes/motos/000108/TNT_15_-_-ROJA_DETALLES_12_1763131019839.jpg"
+    ]
+  },
+  "000109": {
+    "codigoarticulo": "000109",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000109/7_1763131385297.png",
+    "miniaturas": [
+      "/imagenes/motos/000109/1_1763131385437.png",
+      "/imagenes/motos/000109/8_1763131385483.png",
+      "/imagenes/motos/000109/AqHoEqHhQvubLzMUcCY1_180S_2000023_1763131385552.png",
+      "/imagenes/motos/000109/DdoeHj59RQ6sYkeHC87q_180S_2000064_1763131385614.png",
+      "/imagenes/motos/000109/dKEwXlaTIKibwuHwDb5g_180S_2000060_1763131385656.png",
+      "/imagenes/motos/000109/wDTCy2U4QQ2AjVERSodD_180S_2000020_1763131385697.png"
+    ]
+  },
+  "000110": {
+    "codigoarticulo": "000110",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000110/7_1763131501553.png",
+    "miniaturas": [
+      "/imagenes/motos/000110/1_1763131501656.png",
+      "/imagenes/motos/000110/8_1763131501687.png",
+      "/imagenes/motos/000110/AqHoEqHhQvubLzMUcCY1_180S_2000023_1763131501749.png",
+      "/imagenes/motos/000110/DdoeHj59RQ6sYkeHC87q_180S_2000064_1763131501851.png",
+      "/imagenes/motos/000110/dKEwXlaTIKibwuHwDb5g_180S_2000060_1763131501905.png",
+      "/imagenes/motos/000110/wDTCy2U4QQ2AjVERSodD_180S_2000020_1763131501955.png"
+    ]
+  },
+  "000111": {
+    "codigoarticulo": "000111",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000111/7_1763131694829.png",
+    "miniaturas": [
+      "/imagenes/motos/000111/1_1763131694922.png",
+      "/imagenes/motos/000111/8_1763131694987.png",
+      "/imagenes/motos/000111/AqHoEqHhQvubLzMUcCY1_180S_2000023_1763131695112.png",
+      "/imagenes/motos/000111/DdoeHj59RQ6sYkeHC87q_180S_2000064_1763131695185.png",
+      "/imagenes/motos/000111/dKEwXlaTIKibwuHwDb5g_180S_2000060_1763131695234.png",
+      "/imagenes/motos/000111/wDTCy2U4QQ2AjVERSodD_180S_2000020_1763131695291.png"
+    ]
+  },
+  "000112": {
+    "codigoarticulo": "000112",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000112/7_1763131912721.png",
+    "miniaturas": [
+      "/imagenes/motos/000112/1_1763131912820.png",
+      "/imagenes/motos/000112/8_1763131912893.png",
+      "/imagenes/motos/000112/AqHoEqHhQvubLzMUcCY1_180S_2000023_1763131913004.png",
+      "/imagenes/motos/000112/DdoeHj59RQ6sYkeHC87q_180S_2000064_1763131913078.png",
+      "/imagenes/motos/000112/dKEwXlaTIKibwuHwDb5g_180S_2000060_1763131913139.png",
+      "/imagenes/motos/000112/wDTCy2U4QQ2AjVERSodD_180S_2000020_1763131913187.png"
+    ]
+  },
+  "000116": {
+    "codigoarticulo": "000116",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000116/7_1763132310622.png",
+    "miniaturas": [
+      "/imagenes/motos/000116/1_1763132310795.png",
+      "/imagenes/motos/000116/8_1763132310875.png",
+      "/imagenes/motos/000116/e5cf1rMmREOEkLhnKufh_302S_2000075_1763132311066.png",
+      "/imagenes/motos/000116/hHzd9FlwSukZu8TrXRdw_302S_2000044_1763132311126.png",
+      "/imagenes/motos/000116/hoqrOEWfSBapiDtf7G8K_302S_2000070_1763132311165.png"
+    ]
+  },
+  "000117": {
+    "codigoarticulo": "000117",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000117/7__1__1763132514760.png",
+    "miniaturas": [
+      "/imagenes/motos/000117/1__1__1763132514816.png",
+      "/imagenes/motos/000117/8__1__1763132514852.png",
+      "/imagenes/motos/000117/e5cf1rMmREOEkLhnKufh_302S_2000075_1763132514923.png",
+      "/imagenes/motos/000117/hHzd9FlwSukZu8TrXRdw_302S_2000044_1763132514977.png",
+      "/imagenes/motos/000117/hoqrOEWfSBapiDtf7G8K_302S_2000070_1763132515008.png"
+    ]
+  },
+  "000118": {
+    "codigoarticulo": "000118",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000118/7_1763132642191.png",
+    "miniaturas": [
+      "/imagenes/motos/000118/1_1763132642310.png",
+      "/imagenes/motos/000118/8_1763132642345.png",
+      "/imagenes/motos/000118/e5cf1rMmREOEkLhnKufh_302S_2000075_1763132642463.png",
+      "/imagenes/motos/000118/hHzd9FlwSukZu8TrXRdw_302S_2000044_1763132642517.png",
+      "/imagenes/motos/000118/hoqrOEWfSBapiDtf7G8K_302S_2000070_1763132642529.png"
+    ]
+  },
+  "000119": {
+    "codigoarticulo": "000119",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000119/7_1763132805151.png",
+    "miniaturas": [
+      "/imagenes/motos/000119/1_1763132805217.png",
+      "/imagenes/motos/000119/8_1763132805255.png",
+      "/imagenes/motos/000119/e5cf1rMmREOEkLhnKufh_302S_2000075_1763132805352.png",
+      "/imagenes/motos/000119/hHzd9FlwSukZu8TrXRdw_302S_2000044_1763132805404.png",
+      "/imagenes/motos/000119/hoqrOEWfSBapiDtf7G8K_302S_2000070_1763132805429.png"
+    ]
+  },
+  "000120": {
+    "codigoarticulo": "000120",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000120/BENELLI_752S_-_BLANCO_-_ESTUDIO_-_7_1763133112072.png",
+    "miniaturas": [
+      "/imagenes/motos/000120/BENELLI_752S_-_BLANCO_-_ESTUDIO_-_1_1763133112133.png",
+      "/imagenes/motos/000120/BENELLI_752S_-_BLANCO_-_ESTUDIO_-_8_1763133112154.png",
+      "/imagenes/motos/000120/752_GRIS_-_DETALLE_-_1_1763133112223.jpg",
+      "/imagenes/motos/000120/752_GRIS_-_DETALLE_-_6_1763133112282.png",
+      "/imagenes/motos/000120/752_GRIS_-_DETALLE_-_7_1763133112769.jpg"
+    ]
+  },
+  "000121": {
+    "codigoarticulo": "000121",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000121/BENELLI_752S_-_NEGRO_-_ESTUDIO_-_7_1763133312005.png",
+    "miniaturas": [
+      "/imagenes/motos/000121/BENELLI_752S_-_NEGRO_-_ESTUDIO_-_1_1763133312152.png",
+      "/imagenes/motos/000121/BENELLI_752S_-_NEGRO_-_ESTUDIO_-_8_1763133312222.png",
+      "/imagenes/motos/000121/752_GRIS_-_DETALLE_-_1_1763133312327.jpg",
+      "/imagenes/motos/000121/752_GRIS_-_DETALLE_-_6_1763133312417.png",
+      "/imagenes/motos/000121/752_GRIS_-_DETALLE_-_7_1763133313242.jpg"
+    ]
+  },
+  "000122": {
+    "codigoarticulo": "000122",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000122/BENELLI_752S_-_VERDE_-_ESTUDIO_-_7_1763133442941.png",
+    "miniaturas": [
+      "/imagenes/motos/000122/BENELLI_752S_-_VERDE_-_ESTUDIO_-_1_1763133443145.png",
+      "/imagenes/motos/000122/BENELLI_752S_-_VERDE_-_ESTUDIO_-_8_1763133443243.png",
+      "/imagenes/motos/000122/752_GRIS_-_DETALLE_-_1_1763133443405.jpg",
+      "/imagenes/motos/000122/752_GRIS_-_DETALLE_-_6_1763133443542.png",
+      "/imagenes/motos/000122/752_GRIS_-_DETALLE_-_7_1763133444810.jpg"
+    ]
+  },
+  "01308": {
+    "codigoarticulo": "01308",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/01308/STUDIO-TRK-702-00004_1763133815799.png",
+    "miniaturas": [
+      "/imagenes/motos/01308/STUDIO-TRK-702-00005_1763133815956.png",
+      "/imagenes/motos/01308/DETALLES_-_TRK_702_-_09_1763133816159.jpg",
+      "/imagenes/motos/01308/DETALLES_-_TRK_702_-_10_1763133816224.jpg",
+      "/imagenes/motos/01308/DETALLES_-_TRK_702_-_13_1763133816261.jpg"
+    ]
+  },
+  "01309": {
+    "codigoarticulo": "01309",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/01309/STUDIO-TRK-702X-00020_1763134072374.png",
+    "miniaturas": [
+      "/imagenes/motos/01309/STUDIO-TRK-702X-00021_1763134072477.png",
+      "/imagenes/motos/01309/DETALLES_-_TRK_702_X_-_08_1763134072601.jpg",
+      "/imagenes/motos/01309/DETALLES_-_TRK_702_X_-_10_1763134072650.jpg",
+      "/imagenes/motos/01309/DETALLES_-_TRK_702_X_-_11_1763134072685.jpg",
+      "/imagenes/motos/01309/DETALLES_-_TRK_702_X_-_19_1763134072733.jpg"
+    ]
+  },
+  "01582": {
+    "codigoarticulo": "01582",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/01582/STUDIO-TRK-702-00001_1763134270721.png",
+    "miniaturas": [
+      "/imagenes/motos/01582/STUDIO-TRK-702-00002_1763134270855.png",
+      "/imagenes/motos/01582/DETALLES_-_TRK_702_-_09_1763134271063.jpg",
+      "/imagenes/motos/01582/DETALLES_-_TRK_702_-_10_1763134271153.jpg",
+      "/imagenes/motos/01582/DETALLES_-_TRK_702_-_13_1763134271189.jpg"
+    ]
+  },
+  "01844": {
+    "codigoarticulo": "01844",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/01844/descarga_1763134471335.png",
+    "miniaturas": [
+      "/imagenes/motos/01844/752_GRIS_-_DETALLE_-_1_1763134471378.jpg",
+      "/imagenes/motos/01844/752_GRIS_-_DETALLE_-_6_1763134471472.png",
+      "/imagenes/motos/01844/752_GRIS_-_DETALLE_-_7_1763134472099.jpg"
+    ]
+  },
+  "01878": {
+    "codigoarticulo": "01878",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/01878/BENELLI_TRK_251_-_ESTUDIO_-_GRIS_-_7_1763134655371.png",
+    "miniaturas": [
+      "/imagenes/motos/01878/BENELLI_TRK_251_-_ESTUDIO_-_GRIS_-_8_1763134655584.png",
+      "/imagenes/motos/01878/BENELLI_TRK_251_todas_Detalles_v2_1763134655681.png",
+      "/imagenes/motos/01878/BENELLI_TRK_251_todas_Detalles_v3_1763134655740.png",
+      "/imagenes/motos/01878/BENELLI_TRK_251_todas_Detalles_v4_1763134655831.png",
+      "/imagenes/motos/01878/BENELLI_TRK_251FULL_Detallesv3_1763134655889.png"
+    ]
+  },
+  "000194": {
+    "codigoarticulo": "000194",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000194/GILERA_SMASH_VS_180_GRIS_1763139971477.png",
+    "miniaturas": [
+      "/imagenes/motos/000194/GILERA_SMASH_VS_DETALLES_5_1763139971502.jpg",
+      "/imagenes/motos/000194/GILERA_SMASH_VS_DETALLES_9_1763139971506.jpg",
+      "/imagenes/motos/000194/GILERA_SMASH_VS_DETALLES_3_1763139971509.jpg",
+      "/imagenes/motos/000194/GILERA_SMASH_VS_DETALLES_1_1763139971513.jpg"
+    ]
+  },
+  "000196": {
+    "codigoarticulo": "000196",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000196/GILERA_SMASH_VS_180_AZUL_1763140007243.png",
+    "miniaturas": [
+      "/imagenes/motos/000196/GILERA_SMASH_VS_DETALLES_5_1763140007265.jpg",
+      "/imagenes/motos/000196/GILERA_SMASH_VS_DETALLES_1_1763140007266.jpg",
+      "/imagenes/motos/000196/GILERA_SMASH_VS_DETALLES_3_1763140007270.jpg",
+      "/imagenes/motos/000196/GILERA_SMASH_VS_DETALLES_9_1763140007272.jpg"
+    ]
+  },
+  "000199": {
+    "codigoarticulo": "000199",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000199/GILERA_SMASH_FULL_180_GRIS_1763140547347.png",
+    "miniaturas": [
+      "/imagenes/motos/000199/GILERA_SMASH_FULL_DETALLES_1_1763140547386.jpg",
+      "/imagenes/motos/000199/GILERA_SMASH_FULL_DETALLES_2_1763140547387.jpg",
+      "/imagenes/motos/000199/GILERA_SMASH_FULL_DETALLES_3_1763140547389.jpg",
+      "/imagenes/motos/000199/GILERA_SMASH_FULL_DETALLES_5_1763140547391.jpg",
+      "/imagenes/motos/000199/GILERA_SMASH_FULL_DETALLES_6_1763140547392.jpg",
+      "/imagenes/motos/000199/GILERA_SMASH_FULL_DETALLES_9_1763140547393.jpg"
+    ]
+  },
+  "000200": {
+    "codigoarticulo": "000200",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000200/GILERA_SMASH_FULL_180_ROJA_1763140656432.png",
+    "miniaturas": [
+      "/imagenes/motos/000200/GILERA_SMASH_FULL_DETALLES_1_1763140656453.jpg",
+      "/imagenes/motos/000200/GILERA_SMASH_FULL_DETALLES_2_1763140656454.jpg",
+      "/imagenes/motos/000200/GILERA_SMASH_FULL_DETALLES_3_1763140656455.jpg",
+      "/imagenes/motos/000200/GILERA_SMASH_FULL_DETALLES_5_1763140656458.jpg",
+      "/imagenes/motos/000200/GILERA_SMASH_FULL_DETALLES_6_1763140656462.jpg",
+      "/imagenes/motos/000200/GILERA_SMASH_FULL_DETALLES_9_1763140656463.jpg"
+    ]
+  },
+  "000201": {
+    "codigoarticulo": "000201",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000201/GILERA_SMASH_FULL_180_AZUL_1763140838209.png",
+    "miniaturas": [
+      "/imagenes/motos/000201/GILERA_SMASH_FULL_DETALLES_1_1763140838232.jpg",
+      "/imagenes/motos/000201/GILERA_SMASH_FULL_DETALLES_2_1763140838237.jpg",
+      "/imagenes/motos/000201/GILERA_SMASH_FULL_DETALLES_3_1763140838243.jpg",
+      "/imagenes/motos/000201/GILERA_SMASH_FULL_DETALLES_5_1763140838248.jpg",
+      "/imagenes/motos/000201/GILERA_SMASH_FULL_DETALLES_6_1763140838253.jpg",
+      "/imagenes/motos/000201/GILERA_SMASH_FULL_DETALLES_9_1763140838258.jpg"
+    ]
+  },
+  "000202": {
+    "codigoarticulo": "000202",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000202/GILERA_SMASH_FULL_180_NARDO_1763140937707.png",
+    "miniaturas": [
+      "/imagenes/motos/000202/GILERA_SMASH_FULL_DETALLES_1_1763140937725.jpg",
+      "/imagenes/motos/000202/GILERA_SMASH_FULL_DETALLES_2_1763140937726.jpg",
+      "/imagenes/motos/000202/GILERA_SMASH_FULL_DETALLES_3_1763140937727.jpg",
+      "/imagenes/motos/000202/GILERA_SMASH_FULL_DETALLES_5_1763140937729.jpg",
+      "/imagenes/motos/000202/GILERA_SMASH_FULL_DETALLES_6_1763140937730.jpg",
+      "/imagenes/motos/000202/GILERA_SMASH_FULL_DETALLES_9_1763140937731.jpg"
+    ]
+  },
+  "000204": {
+    "codigoarticulo": "000204",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000204/GILERA_SMASH_AUTOMATICA_180_GRIS_1763141305381.png",
+    "miniaturas": [
+      "/imagenes/motos/000204/GILERA_SMASH_AUTOMATICA_DETALLES_1_1763141305393.jpg",
+      "/imagenes/motos/000204/GILERA_SMASH_AUTOMATICA_DETALLES_5_1763141305394.jpg",
+      "/imagenes/motos/000204/GILERA_SMASH_AUTOMATICA_DETALLES_6_1763141305397.jpg",
+      "/imagenes/motos/000204/GILERA_SMASH_AUTOMATICA_DETALLES_9__1__1763141305398.jpg"
+    ]
+  },
+  "000205": {
+    "codigoarticulo": "000205",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000205/GILERA_SMASH_AUTOMATICA_180_ROJA_1763141364269.png",
+    "miniaturas": [
+      "/imagenes/motos/000205/GILERA_SMASH_AUTOMATICA_DETALLES_1_1763141364281.jpg",
+      "/imagenes/motos/000205/GILERA_SMASH_AUTOMATICA_DETALLES_5_1763141364287.jpg",
+      "/imagenes/motos/000205/GILERA_SMASH_AUTOMATICA_DETALLES_6_1763141364288.jpg",
+      "/imagenes/motos/000205/GILERA_SMASH_AUTOMATICA_DETALLES_9__1__1763141364290.jpg"
+    ]
+  },
+  "000206": {
+    "codigoarticulo": "000206",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000206/GILERA_SMASH_AUTOMATICA_180_AZUL_1763141401635.png",
+    "miniaturas": [
+      "/imagenes/motos/000206/GILERA_SMASH_AUTOMATICA_DETALLES_1_1763141401653.jpg",
+      "/imagenes/motos/000206/GILERA_SMASH_AUTOMATICA_DETALLES_5_1763141401653.jpg",
+      "/imagenes/motos/000206/GILERA_SMASH_AUTOMATICA_DETALLES_6_1763141401656.jpg",
+      "/imagenes/motos/000206/GILERA_SMASH_AUTOMATICA_DETALLES_9__1__1763141401661.jpg"
+    ]
+  },
+  "000208": {
+    "codigoarticulo": "000208",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000208/GILERA_SMASH_R_180_ROJA_1763141733260.png",
+    "miniaturas": [
+      "/imagenes/motos/000208/GILERA_SMASH_R_DETALLES_2_1763141733276.jpg",
+      "/imagenes/motos/000208/GILERA_SMASH_R_DETALLES_3_1763141733277.jpg",
+      "/imagenes/motos/000208/GILERA_SMASH_R_DETALLES_5_1763141733278.jpg",
+      "/imagenes/motos/000208/GILERA_SMASH_R_DETALLES_8_1763141733280.jpg",
+      "/imagenes/motos/000208/GILERA_SMASH_R_DETALLES_10_1763141733282.jpg"
+    ]
+  },
+  "000209": {
+    "codigoarticulo": "000209",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000209/GILERA_SMASH_R_180_AZUL_1763141819681.png",
+    "miniaturas": [
+      "/imagenes/motos/000209/GILERA_SMASH_R_DETALLES_2_1763141819699.jpg",
+      "/imagenes/motos/000209/GILERA_SMASH_R_DETALLES_3_1763141819699.jpg",
+      "/imagenes/motos/000209/GILERA_SMASH_R_DETALLES_5_1763141819701.jpg",
+      "/imagenes/motos/000209/GILERA_SMASH_R_DETALLES_8_1763141819704.jpg",
+      "/imagenes/motos/000209/GILERA_SMASH_R_DETALLES_10_1763141819706.jpg"
+    ]
+  },
+  "000210": {
+    "codigoarticulo": "000210",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000210/GILERA_SMASH_R_180_GRIS_1763141866758.png",
+    "miniaturas": [
+      "/imagenes/motos/000210/GILERA_SMASH_R_DETALLES_2_1763141866773.jpg",
+      "/imagenes/motos/000210/GILERA_SMASH_R_DETALLES_3_1763141866774.jpg",
+      "/imagenes/motos/000210/GILERA_SMASH_R_DETALLES_5_1763141866777.jpg",
+      "/imagenes/motos/000210/GILERA_SMASH_R_DETALLES_8_1763141866778.jpg",
+      "/imagenes/motos/000210/GILERA_SMASH_R_DETALLES_10_1763141866780.jpg"
+    ]
+  },
+  "000211": {
+    "codigoarticulo": "000211",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000211/GILERA_SMASH_R_180_MARRON_1763141936877.png",
+    "miniaturas": [
+      "/imagenes/motos/000211/GILERA_SMASH_R_DETALLES_2_1763141936889.jpg",
+      "/imagenes/motos/000211/GILERA_SMASH_R_DETALLES_3_1763141936889.jpg",
+      "/imagenes/motos/000211/GILERA_SMASH_R_DETALLES_5_1763141936896.jpg",
+      "/imagenes/motos/000211/GILERA_SMASH_R_DETALLES_8_1763141936898.jpg",
+      "/imagenes/motos/000211/GILERA_SMASH_R_DETALLES_10_1763141936900.jpg"
+    ]
+  },
+  "000212": {
+    "codigoarticulo": "000212",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000212/GILERA_SMASH_R_TUNING_180_ROJA_1763142381883.png",
+    "miniaturas": [
+      "/imagenes/motos/000212/GILERA_SMASH_R_TUNING_DETALLES_1_1763142381900.jpg",
+      "/imagenes/motos/000212/GILERA_SMASH_R_TUNING_DETALLES_2_1763142381900.jpg",
+      "/imagenes/motos/000212/GILERA_SMASH_R_TUNING_DETALLES_3_1763142381903.jpg",
+      "/imagenes/motos/000212/GILERA_SMASH_R_TUNING_DETALLES_7_1763142381906.jpg",
+      "/imagenes/motos/000212/GILERA_SMASH_R_TUNING_DETALLES_10_1763142381907.jpg",
+      "/imagenes/motos/000212/GILERA_SMASH_R_TUNING_DETALLES_13_1763142381908.jpg"
+    ]
+  },
+  "000213": {
+    "codigoarticulo": "000213",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000213/GILERA_SMASH_R_TUNING_180_AZUL_1763142442084.png",
+    "miniaturas": [
+      "/imagenes/motos/000213/GILERA_SMASH_R_TUNING_DETALLES_1_1763142442103.jpg",
+      "/imagenes/motos/000213/GILERA_SMASH_R_TUNING_DETALLES_2_1763142442103.jpg",
+      "/imagenes/motos/000213/GILERA_SMASH_R_TUNING_DETALLES_3_1763142442105.jpg",
+      "/imagenes/motos/000213/GILERA_SMASH_R_TUNING_DETALLES_7_1763142442107.jpg",
+      "/imagenes/motos/000213/GILERA_SMASH_R_TUNING_DETALLES_10_1763142442112.jpg",
+      "/imagenes/motos/000213/GILERA_SMASH_R_TUNING_DETALLES_13_1763142442113.jpg"
+    ]
+  },
+  "000214": {
+    "codigoarticulo": "000214",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000214/GILERA_SMASH_R_TUNING_180_GRIS_1763142493118.png",
+    "miniaturas": [
+      "/imagenes/motos/000214/GILERA_SMASH_R_TUNING_DETALLES_1_1763142493131.jpg",
+      "/imagenes/motos/000214/GILERA_SMASH_R_TUNING_DETALLES_2_1763142493132.jpg",
+      "/imagenes/motos/000214/GILERA_SMASH_R_TUNING_DETALLES_3_1763142493928.jpg",
+      "/imagenes/motos/000214/GILERA_SMASH_R_TUNING_DETALLES_7_1763142493929.jpg",
+      "/imagenes/motos/000214/GILERA_SMASH_R_TUNING_DETALLES_10_1763142493945.jpg",
+      "/imagenes/motos/000214/GILERA_SMASH_R_TUNING_DETALLES_13_1763142493948.jpg"
+    ]
+  },
+  "000215": {
+    "codigoarticulo": "000215",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000215/GILERA_SMASH_R_TUNING_180_MARRON_1763142544843.png",
+    "miniaturas": [
+      "/imagenes/motos/000215/GILERA_SMASH_R_TUNING_DETALLES_1_1763142544858.jpg",
+      "/imagenes/motos/000215/GILERA_SMASH_R_TUNING_DETALLES_2_1763142544859.jpg",
+      "/imagenes/motos/000215/GILERA_SMASH_R_TUNING_DETALLES_3_1763142544860.jpg",
+      "/imagenes/motos/000215/GILERA_SMASH_R_TUNING_DETALLES_7_1763142544862.jpg",
+      "/imagenes/motos/000215/GILERA_SMASH_R_TUNING_DETALLES_10_1763142544865.jpg",
+      "/imagenes/motos/000215/GILERA_SMASH_R_TUNING_DETALLES_13_1763142544865.jpg"
+    ]
+  },
+  "000216": {
+    "codigoarticulo": "000216",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000216/GILERA_SMASH_X125_180_BLANCA_1763142794472.png",
+    "miniaturas": [
+      "/imagenes/motos/000216/GILERA_SMASH_X125_DETALLES_1_1763142794493.jpg",
+      "/imagenes/motos/000216/GILERA_SMASH_X125_DETALLES_5_1763142794494.jpg",
+      "/imagenes/motos/000216/GILERA_SMASH_X125_DETALLES_8_1763142794495.jpg",
+      "/imagenes/motos/000216/GILERA_SMASH_X125_DETALLES_11_1763142794497.jpg"
+    ]
+  },
+  "000217": {
+    "codigoarticulo": "000217",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000217/GILERA_SMASH_X125_180_GRIS_1763142901972.png",
+    "miniaturas": [
+      "/imagenes/motos/000217/GILERA_SMASH_X125_DETALLES_1_1763142901984.jpg",
+      "/imagenes/motos/000217/GILERA_SMASH_X125_DETALLES_5_1763142901985.jpg",
+      "/imagenes/motos/000217/GILERA_SMASH_X125_DETALLES_8_1763142901987.jpg",
+      "/imagenes/motos/000217/GILERA_SMASH_X125_DETALLES_11_1763142901989.jpg"
+    ]
+  },
+  "000218": {
+    "codigoarticulo": "000218",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000218/GILERA_SMASH_X125_180_ROJA_1763143040050.png",
+    "miniaturas": [
+      "/imagenes/motos/000218/GILERA_SMASH_X125_DETALLES_1_1763143040067.jpg",
+      "/imagenes/motos/000218/GILERA_SMASH_X125_DETALLES_5_1763143040067.jpg",
+      "/imagenes/motos/000218/GILERA_SMASH_X125_DETALLES_8_1763143040068.jpg",
+      "/imagenes/motos/000218/GILERA_SMASH_X125_DETALLES_11_1763143040072.jpg"
+    ]
+  },
+  "000225": {
+    "codigoarticulo": "000225",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000225/GILERA_SAHEL_180_NEGRA_1763143568849.png",
+    "miniaturas": [
+      "/imagenes/motos/000225/GILERA_SAHEL_DETALLES_4_1763143568866.jpg",
+      "/imagenes/motos/000225/GILERA_SAHEL_DETALLES_7_1763143568871.jpg",
+      "/imagenes/motos/000225/GILERA_SAHEL_DETALLES_9_1763143568872.jpg",
+      "/imagenes/motos/000225/GILERA_SAHEL_DETALLES_11_1763143568874.jpg",
+      "/imagenes/motos/000225/GILERA_SAHEL_DETALLES_13_1763143568876.jpg"
+    ]
+  },
+  "000226": {
+    "codigoarticulo": "000226",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000226/GILERA_SAHEL_180_ROJA_1763143617434.png",
+    "miniaturas": [
+      "/imagenes/motos/000226/GILERA_SAHEL_DETALLES_4_1763143617453.jpg",
+      "/imagenes/motos/000226/GILERA_SAHEL_DETALLES_7_1763143617454.jpg",
+      "/imagenes/motos/000226/GILERA_SAHEL_DETALLES_9_1763143617457.jpg",
+      "/imagenes/motos/000226/GILERA_SAHEL_DETALLES_11_1763143617458.jpg",
+      "/imagenes/motos/000226/GILERA_SAHEL_DETALLES_13_1763143617460.jpg"
+    ]
+  },
+  "000228": {
+    "codigoarticulo": "000228",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000228/GILERA_SAHEL_180_BLANCA_1763143729528.png",
+    "miniaturas": [
+      "/imagenes/motos/000228/GILERA_SAHEL_DETALLES_4_1763143729543.jpg",
+      "/imagenes/motos/000228/GILERA_SAHEL_DETALLES_7_1763143729544.jpg",
+      "/imagenes/motos/000228/GILERA_SAHEL_DETALLES_9_1763143729547.jpg",
+      "/imagenes/motos/000228/GILERA_SAHEL_DETALLES_11_1763143729548.jpg",
+      "/imagenes/motos/000228/GILERA_SAHEL_DETALLES_13_1763143729549.jpg"
+    ]
+  },
+  "000229": {
+    "codigoarticulo": "000229",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000229/GILERA_SMX200_END_180_BLANCA_1763144426761.png",
+    "miniaturas": [
+      "/imagenes/motos/000229/GILERA_SMX200_END_DETALLES_1_1763144426779.jpg",
+      "/imagenes/motos/000229/GILERA_SMX200_END_DETALLES_2_1763144426779.jpg",
+      "/imagenes/motos/000229/GILERA_SMX200_END_DETALLES_3_1763144426781.jpg",
+      "/imagenes/motos/000229/GILERA_SMX200_END_DETALLES_14_1763144426783.jpg"
+    ]
+  },
+  "000230": {
+    "codigoarticulo": "000230",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000230/GILERA_SMX200_END_180_NEGRA_1763144519200.png",
+    "miniaturas": [
+      "/imagenes/motos/000230/GILERA_SMX200_END_DETALLES_1_1763144519257.jpg",
+      "/imagenes/motos/000230/GILERA_SMX200_END_DETALLES_2_1763144519258.jpg",
+      "/imagenes/motos/000230/GILERA_SMX200_END_DETALLES_3_1763144519260.jpg",
+      "/imagenes/motos/000230/GILERA_SMX200_END_DETALLES_14_1763144519262.jpg"
+    ]
+  },
+  "000231": {
+    "codigoarticulo": "000231",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000231/GILERA_SMX200_END_180_ROJA_1763144554961.png",
+    "miniaturas": [
+      "/imagenes/motos/000231/GILERA_SMX200_END_DETALLES_1_1763144554973.jpg",
+      "/imagenes/motos/000231/GILERA_SMX200_END_DETALLES_2_1763144554973.jpg",
+      "/imagenes/motos/000231/GILERA_SMX200_END_DETALLES_3_1763144555098.jpg",
+      "/imagenes/motos/000231/GILERA_SMX200_END_DETALLES_14_1763144555101.jpg"
+    ]
+  },
+  "000233": {
+    "codigoarticulo": "000233",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000233/GILERA_SMX200_ADV_180_GRIS_1763145018264.png",
+    "miniaturas": [
+      "/imagenes/motos/000233/GILERA21_2102-768x512_1763145018281.jpg",
+      "/imagenes/motos/000233/GILERA21_2120-768x512_1763145018281.jpg",
+      "/imagenes/motos/000233/GILERA21_2122-768x512_1763145018285.jpg",
+      "/imagenes/motos/000233/GILERA21_2125-768x512_1763145018285.png"
+    ]
+  },
+  "000234": {
+    "codigoarticulo": "000234",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000234/GILERA_SMX200_ADV_180_ROJA_1763145085708.png",
+    "miniaturas": [
+      "/imagenes/motos/000234/GILERA21_2102-768x512_1763145085737.jpg",
+      "/imagenes/motos/000234/GILERA21_2120-768x512_1763145085739.jpg",
+      "/imagenes/motos/000234/GILERA21_2122-768x512_1763145085748.jpg",
+      "/imagenes/motos/000234/GILERA21_2125-768x512_1763145085748.png"
+    ]
+  },
+  "000235": {
+    "codigoarticulo": "000235",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000235/GILERA_SMX250_ADV_180_NEGRA_1763145387792.png",
+    "miniaturas": [
+      "/imagenes/motos/000235/GILERA_SMX250_ADV_DETALLES_1_1763145387805.jpg",
+      "/imagenes/motos/000235/GILERA_SMX250_ADV_DETALLES_3_1763145387808.jpg",
+      "/imagenes/motos/000235/GILERA_SMX250_ADV_DETALLES_5_1763145387810.jpg",
+      "/imagenes/motos/000235/GILERA_SMX250_ADV_DETALLES_7_1763145387813.jpg"
+    ]
+  },
+  "000236": {
+    "codigoarticulo": "000236",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000236/GILERA_SMX250_ADV_180_ROJA_1763145440838.png",
+    "miniaturas": [
+      "/imagenes/motos/000236/GILERA_SMX250_ADV_DETALLES_1_1763145440863.jpg",
+      "/imagenes/motos/000236/GILERA_SMX250_ADV_DETALLES_3_1763145440865.jpg",
+      "/imagenes/motos/000236/GILERA_SMX250_ADV_DETALLES_5_1763145440867.jpg",
+      "/imagenes/motos/000236/GILERA_SMX250_ADV_DETALLES_7_1763145440870.jpg"
+    ]
+  },
+  "000237": {
+    "codigoarticulo": "000237",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000237/GILERA_VC150_180_NEGRA_1763145685545.png",
+    "miniaturas": [
+      "/imagenes/motos/000237/GILERA_VC150_DETALLES_1_1763145685560.jpg",
+      "/imagenes/motos/000237/GILERA_VC150_DETALLES_2_1763145685561.jpg",
+      "/imagenes/motos/000237/GILERA_VC150_DETALLES_3_1763145685561.jpg",
+      "/imagenes/motos/000237/GILERA_VC150_DETALLES_6_1763145685569.jpg"
+    ]
+  },
+  "000238": {
+    "codigoarticulo": "000238",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000238/GILERA_VC150_180_ROJA_1763145762163.png",
+    "miniaturas": [
+      "/imagenes/motos/000238/GILERA_VC150_DETALLES_1_1763145762175.jpg",
+      "/imagenes/motos/000238/GILERA_VC150_DETALLES_2_1763145762176.jpg",
+      "/imagenes/motos/000238/GILERA_VC150_DETALLES_3_1763145762176.jpg",
+      "/imagenes/motos/000238/GILERA_VC150_DETALLES_6_1763145762180.jpg"
+    ]
+  },
+  "000239": {
+    "codigoarticulo": "000239",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000239/GILERA_VC150_180_BLANCA_1763145798150.png",
+    "miniaturas": [
+      "/imagenes/motos/000239/GILERA_VC150_DETALLES_1_1763145798167.jpg",
+      "/imagenes/motos/000239/GILERA_VC150_DETALLES_2_1763145798168.jpg",
+      "/imagenes/motos/000239/GILERA_VC150_DETALLES_3_1763145798168.jpg",
+      "/imagenes/motos/000239/GILERA_VC150_DETALLES_6_1763145798176.jpg"
+    ]
+  },
+  "000243": {
+    "codigoarticulo": "000243",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000243/GILERA_AC4_180_NEGRA_1763146143267.png",
+    "miniaturas": [
+      "/imagenes/motos/000243/GILERA_AC4_DETALLES_1_1763146143281.jpg",
+      "/imagenes/motos/000243/GILERA_AC4_DETALLES_3_1763146143283.jpg",
+      "/imagenes/motos/000243/GILERA_AC4_DETALLES_4_1763146143286.jpg"
+    ]
+  },
+  "000244": {
+    "codigoarticulo": "000244",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000244/GILERA_AC4_180_AZUL_1763146190316.png",
+    "miniaturas": [
+      "/imagenes/motos/000244/GILERA_AC4_DETALLES_1_1763146190338.jpg",
+      "/imagenes/motos/000244/GILERA_AC4_DETALLES_3_1763146190343.jpg",
+      "/imagenes/motos/000244/GILERA_AC4_DETALLES_4_1763146190345.jpg"
+    ]
+  },
+  "000245": {
+    "codigoarticulo": "000245",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/000245/GILERA_AC4_180__BORDEAU_1763146247280.png",
+    "miniaturas": [
+      "/imagenes/motos/000245/GILERA_AC4_DETALLES_1_1763146247301.jpg",
+      "/imagenes/motos/000245/GILERA_AC4_DETALLES_3_1763146247307.jpg",
+      "/imagenes/motos/000245/GILERA_AC4_DETALLES_4_1763146247309.jpg"
+    ]
+  },
+  "01207": {
+    "codigoarticulo": "01207",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/01207/LATIN_AMERICA_AX100_Blue_Right_1763177602869.png",
+    "miniaturas": [
+      "/imagenes/motos/01207/LATIN_AMERICA_AX100_Black_Right_1763177602896.jpg",
+      "/imagenes/motos/01207/LATIN_AMERICA_AX100_Grey_Right_1763177602897.png",
+      "/imagenes/motos/01207/LATIN_AMERICA_AX100_Red_Right_1763177602961.jpg"
+    ],
+    "fichaTecnica": "/imagenes/motos/01207/Ficha_t__cnica_AX100_1763177602973.pdf"
+  },
+  "01208": {
+    "codigoarticulo": "01208",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/01208/LATIN_AMERICA_AX100_Red_Right_1763153984253.jpg",
+    "miniaturas": [
+      "/imagenes/motos/01208/LATIN_AMERICA_AX100_Grey_Right_1763153984279.png",
+      "/imagenes/motos/01208/LATIN_AMERICA_AX100_Black_Right_1763153984329.jpg",
+      "/imagenes/motos/01208/LATIN_AMERICA_AX100_Blue_Right_1763153984331.png"
+    ]
+  },
+  "01209": {
+    "codigoarticulo": "01209",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/01209/LATIN_AMERICA_AX100_Black_Right_1763154018376.jpg",
+    "miniaturas": [
+      "/imagenes/motos/01209/LATIN_AMERICA_AX100_Grey_Right_1763154018396.png",
+      "/imagenes/motos/01209/LATIN_AMERICA_AX100_Red_Right_1763154018447.jpg",
+      "/imagenes/motos/01209/LATIN_AMERICA_AX100_Blue_Right_1763154018448.png"
+    ]
+  },
+  "01210": {
+    "codigoarticulo": "01210",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/01210/LATIN_AMERICA_AX100_Grey_Right_1763154041428.png",
+    "miniaturas": [
+      "/imagenes/motos/01210/LATIN_AMERICA_AX100_Red_Right_1763154041493.jpg",
+      "/imagenes/motos/01210/LATIN_AMERICA_AX100_Black_Right_1763154041494.jpg",
+      "/imagenes/motos/01210/LATIN_AMERICA_AX100_Blue_Right_1763154041495.png"
+    ]
+  },
+  "01211": {
+    "codigoarticulo": "01211",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/01211/DR650_Vistas__negro___6__1763154210078.jpg",
+    "miniaturas": [
+      "/imagenes/motos/01211/DR650_Vistas__negro___5__1763154210315.jpg",
+      "/imagenes/motos/01211/DR650_Vistas__negro___4__1763154210452.jpg",
+      "/imagenes/motos/01211/DR650_Vistas__negro___8__1763154210542.jpg",
+      "/imagenes/motos/01211/DR650_Vistas__negro___7__1763154210627.jpg"
+    ]
+  },
+  "01405": {
+    "codigoarticulo": "01405",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/01405/LATIN_AMERICA_GN125F_BLUE_Right_1763154589073.png",
+    "miniaturas": [
+      "/imagenes/motos/01405/LATIN_AMERICA_GN125F_BLUE_Diagonal_1763154589250.png"
+    ]
+  },
+  "01406": {
+    "codigoarticulo": "01406",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/01406/LATIN_AMERICA_GN125F_YHP_Right_1763154612045.png",
+    "miniaturas": [
+      "/imagenes/motos/01406/LATIN_AMERICA_GN125F_YHP_Diagonal_1763154612291.png"
+    ]
+  },
+  "01407": {
+    "codigoarticulo": "01407",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/01407/NAD05852_1763154880767.png",
+    "miniaturas": [
+      "/imagenes/motos/01407/NAD05854_1763154881429.png",
+      "/imagenes/motos/01407/NAD05690_1763154887455.jpg",
+      "/imagenes/motos/01407/NAD05704_1763154887728.jpg",
+      "/imagenes/motos/01407/NAD05709_1763154887935.jpg",
+      "/imagenes/motos/01407/NAD05727_1763154888155.jpg"
+    ]
+  },
+  "01408": {
+    "codigoarticulo": "01408",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/01408/NAD05780_1763154958120.png",
+    "miniaturas": [
+      "/imagenes/motos/01408/NAD05777_1763154958602.png",
+      "/imagenes/motos/01408/NAD05690_1763154958880.jpg",
+      "/imagenes/motos/01408/NAD05704_1763154959086.jpg",
+      "/imagenes/motos/01408/NAD05709_1763154959244.jpg",
+      "/imagenes/motos/01408/NAD05727_1763154959380.jpg"
+    ]
+  },
+  "01583": {
+    "codigoarticulo": "01583",
+    "descripcionExtra": "",
+    "colores": [],
+    "imagenPrincipal": "/imagenes/motos/01583/NAD05825_1763155090691.png",
+    "miniaturas": [
+      "/imagenes/motos/01583/NAD05821_1763155090948.png",
+      "/imagenes/motos/01583/NAD05690_1763155091172.jpg",
+      "/imagenes/motos/01583/NAD05704_1763155091382.jpg",
+      "/imagenes/motos/01583/NAD05709_1763155091552.jpg",
+      "/imagenes/motos/01583/NAD05727_1763155091702.jpg"
+    ]
+  },
+  "000323": {
+    "imagenPrincipal": "/imagenes/cascos/000323/BASS_GLOSS_PINK_TORQUOISE_WHITE_4_1764260477704.jpg",
+    "miniaturas": [
+      "/imagenes/cascos/000323/BASS_GLOSS_PINK_TORQUOISE_WHITE_6_1764260477739.jpg",
+      "/imagenes/cascos/000323/BASS_GLOSS_PINK_TORQUOISE_WHITE_5_1764260477756.jpg",
+      "/imagenes/cascos/000323/BASS_GLOSS_PINK_TORQUOISE_WHITE_1_1764260477770.jpg",
+      "/imagenes/cascos/000323/BASS_GLOSS_PINK_TORQUOISE_WHITE_2_1764260477795.jpg",
+      "/imagenes/cascos/000323/BASS_GLOSS_PINK_TORQUOISE_WHITE_3_1764260477808.jpg"
+    ],
+    "descripcionExtra": "",
+    "fichaTecnica": null
+  },
+  "000324": {
+    "imagenPrincipal": "/imagenes/cascos/000324/BASS_GLOSS_PINK_TORQUOISE_WHITE_4_1764264246578.jpg",
+    "miniaturas": [],
+    "descripcionExtra": "",
+    "fichaTecnica": null
+  },
+  "000325": {
+    "imagenPrincipal": "/imagenes/cascos/000325/BASS_GLOSS_PINK_TORQUOISE_WHITE_4_1764264286519.jpg",
+    "miniaturas": [],
+    "descripcionExtra": "",
+    "fichaTecnica": null
+  },
+  "000326": {
+    "imagenPrincipal": "/imagenes/cascos/000326/BASS_GLOSS_PINK_TORQUOISE_WHITE_4_1764264317284.jpg",
+    "miniaturas": [],
+    "descripcionExtra": "",
+    "fichaTecnica": null
+  },
+  "000063": {
+    "imagenPrincipal": "/imagenes/motos/000063/corven_110_rt_r2_blanca_1766538557964.png",
+    "miniaturas": [
+      "/imagenes/motos/000063/detalle_corven_110_rt_r2_1766538557994.png"
+    ],
+    "fichaTecnica": null
+  },
+  "000064": {
+    "imagenPrincipal": "/imagenes/motos/000064/corven_110_rt_r2_negra_1766538630673.png",
+    "miniaturas": [],
+    "fichaTecnica": null
+  },
+  "000065": {
+    "imagenPrincipal": "/imagenes/motos/000065/corven_110_rt_r2_roja_1766538641225.png",
+    "miniaturas": [],
+    "fichaTecnica": null
+  },
+  "000066": {
+    "imagenPrincipal": "/imagenes/motos/000066/corven_110_rt_r2_azul_1766538694772.png",
+    "miniaturas": [],
+    "fichaTecnica": null
+  },
+  "000067": {
+    "imagenPrincipal": "/imagenes/motos/000067/corven_110_ad_r2_blanca_1766539171738.png",
+    "miniaturas": [],
+    "fichaTecnica": null
+  },
+  "000068": {
+    "imagenPrincipal": "/imagenes/motos/000068/corven_110_ad_r2_negra_1766539184720.png",
+    "miniaturas": [],
+    "fichaTecnica": null
+  },
+  "000069": {
+    "imagenPrincipal": "/imagenes/motos/000069/corven_110_ad_r2_roja_1766539202119.png",
+    "miniaturas": [],
+    "fichaTecnica": null
+  },
+  "000070": {
+    "imagenPrincipal": "/imagenes/motos/000070/corven_110_ad_r2_azul_1766539220122.png",
+    "miniaturas": [],
+    "fichaTecnica": null
+  },
+  "000077": {
+    "imagenPrincipal": "/imagenes/motos/000077/ENERGY-TUNNING-110-R2-NEGRO-600x600_1766539927062.webp",
+    "miniaturas": [
+      "/imagenes/motos/000077/detalle_ENERGY-TUNNING-110-R2-3-600x600_1766539927081.webp",
+      "/imagenes/motos/000077/detalle_ENERGY-TUNNING-110-R2-5-600x600_1766539927087.webp",
+      "/imagenes/motos/000077/detalle_ENERGY-TUNNING-110-R2-4-600x600_1766539927088.webp",
+      "/imagenes/motos/000077/detalle_ENERGY-TUNNING-110-R2-6-600x600_1766539927089.webp"
+    ],
+    "fichaTecnica": "/imagenes/motos/000077/Ficha-Tecnica-Corven-Energy-Tuning-110__1__1766539927130.pdf"
+  },
+  "000079": {
+    "imagenPrincipal": "/imagenes/motos/000079/corven_triax_150_blanca_1766540164944.jpg",
+    "miniaturas": [],
+    "fichaTecnica": "/imagenes/motos/000079/Ficha-Tecnica-Corven-Triax-150n_1766540164961.pdf"
+  },
+  "000080": {
+    "imagenPrincipal": "/imagenes/motos/000080/corven_triax_150_negra_1766540212055.jpg",
+    "miniaturas": [],
+    "fichaTecnica": "/imagenes/motos/000080/Ficha-Tecnica-Corven-Triax-150n_1766540212071.pdf"
+  },
+  "000081": {
+    "imagenPrincipal": "/imagenes/motos/000081/corven_triax_150_roja_1766540231823.jpg",
+    "miniaturas": [],
+    "fichaTecnica": "/imagenes/motos/000081/Ficha-Tecnica-Corven-Triax-150n_1766540231836.pdf"
+  },
+  "000082": {
+    "imagenPrincipal": "/imagenes/motos/000082/corven_triax_150_r3_1766541606104.jpg",
+    "miniaturas": [],
+    "fichaTecnica": "/imagenes/motos/000082/Ficha-Tecnica-Corven-Triax-150-R3_1766541606124.pdf"
+  },
+  "000083": {
+    "imagenPrincipal": "/imagenes/motos/000083/corven_triax_150_rt_negra_1766541624333.jpg",
+    "miniaturas": [],
+    "fichaTecnica": "/imagenes/motos/000083/Ficha-Tecnica-Corven-Triax-150-R3_1766541624346.pdf"
+  },
+  "000084": {
+    "imagenPrincipal": "/imagenes/motos/000084/corven_triax_150_r3_roja_1766541640682.jpg",
+    "miniaturas": [],
+    "fichaTecnica": "/imagenes/motos/000084/Ficha-Tecnica-Corven-Triax-150-R3_1766541640699.pdf"
+  },
+  "000085": {
+    "imagenPrincipal": "/imagenes/motos/000085/corven_triax_200_r3_blanca_1766541828282.png",
+    "miniaturas": [],
+    "fichaTecnica": "/imagenes/motos/000085/Ficha-Tecnica-Corven-Triax-200-R3_1766541828303.pdf"
+  },
+  "000086": {
+    "imagenPrincipal": "/imagenes/motos/000086/corven_triax_200_r3_negra_1766541838691.png",
+    "miniaturas": [],
+    "fichaTecnica": "/imagenes/motos/000086/Ficha-Tecnica-Corven-Triax-200-R3_1766541838709.pdf"
+  },
+  "000087": {
+    "imagenPrincipal": "/imagenes/motos/000087/corven_triax_200_r3_roja_1766541860859.png",
+    "miniaturas": [],
+    "fichaTecnica": "/imagenes/motos/000087/Ficha-Tecnica-Corven-Triax-200-R3_1766541860880.pdf"
+  },
+  "000088": {
+    "imagenPrincipal": "/imagenes/motos/000088/corven_triax_250_r3_blanca_1766542165138.jpg",
+    "miniaturas": [],
+    "fichaTecnica": null
+  },
+  "000089": {
+    "imagenPrincipal": "/imagenes/motos/000089/corven_triax_250_r3_negra_1766542178923.jpg",
+    "miniaturas": [],
+    "fichaTecnica": null
+  },
+  "000090": {
+    "imagenPrincipal": "/imagenes/motos/000090/corven_triax_250_r3_roja_1766542190128.jpg",
+    "miniaturas": [],
+    "fichaTecnica": null
+  },
+  "000091": {
+    "imagenPrincipal": "/imagenes/motos/000091/corven_triax_250l_blanca_1766542307895.png",
+    "miniaturas": [],
+    "fichaTecnica": null
+  },
+  "000092": {
+    "imagenPrincipal": "/imagenes/motos/000092/corven_triax_250l_roja_1766542379344.png",
+    "miniaturas": [],
+    "fichaTecnica": null
+  },
+  "000093": {
+    "imagenPrincipal": "/imagenes/motos/000093/corven_hunter_150_rt_blanca_1766542655319.jpg",
+    "miniaturas": [],
+    "fichaTecnica": "/fichas/000093/ficha_1766542655332.pdf"
+  },
+  "000094": {
+    "imagenPrincipal": "/imagenes/motos/000094/corven_hunter_150_rt_negra_1766542664845.jpg",
+    "miniaturas": [],
+    "fichaTecnica": "/fichas/000094/ficha_1766542664857.pdf"
+  },
+  "000095": {
+    "imagenPrincipal": "/imagenes/motos/000095/corven_hunter_150_rt_roja_1766542675911.jpg",
+    "miniaturas": [],
+    "fichaTecnica": "/fichas/000095/ficha_1766542675926.pdf"
+  },
+  "000096": {
+    "imagenPrincipal": "/imagenes/motos/000096/corven_hunter_150_rt_azul_1766542684959.jpg",
+    "miniaturas": [],
+    "fichaTecnica": "/fichas/000096/ficha_1766542684969.pdf"
+  },
+  "000097": {
+    "imagenPrincipal": "/imagenes/motos/000097/corven_hunter_150_ad_blanca_1766543131564.jpg",
+    "miniaturas": [],
+    "fichaTecnica": "/fichas/000097/ficha_1766543131580.pdf"
+  },
+  "000098": {
+    "imagenPrincipal": "/imagenes/motos/000098/corven_hunter_150_ad_negra_1766543142790.jpg",
+    "miniaturas": [],
+    "fichaTecnica": "/fichas/000098/ficha_1766543142803.pdf"
+  },
+  "000099": {
+    "imagenPrincipal": "/imagenes/motos/000099/corven_hunter_150_ad_roja_1766543152823.jpg",
+    "miniaturas": [],
+    "fichaTecnica": "/fichas/000099/ficha_1766543152835.pdf"
+  },
+  "000100": {
+    "imagenPrincipal": "/imagenes/motos/000100/corven_hunter_150_ad_azul_1766543168255.jpg",
+    "miniaturas": [],
+    "fichaTecnica": null
+  },
+  "000101": {
+    "imagenPrincipal": "/imagenes/motos/000101/corven_hunter_150_r2_1766543327546.jpg",
+    "miniaturas": [],
+    "fichaTecnica": "/fichas/000101/ficha_1766543327557.pdf"
+  },
+  "000102": {
+    "imagenPrincipal": "/imagenes/motos/000102/corven_hunter_150_r2_roja_1766543341177.jpg",
+    "miniaturas": [],
+    "fichaTecnica": "/fichas/000102/ficha_1766543341187.pdf"
+  },
+  "000103": {
+    "imagenPrincipal": "/imagenes/motos/000103/corven_hunter_150_r2_azul_1766543351600.jpg",
+    "miniaturas": [],
+    "fichaTecnica": "/fichas/000103/ficha_1766543351611.pdf"
+  },
+  "000104": {
+    "imagenPrincipal": "/imagenes/motos/000104/corven_hunter_150_r2_negra_1766543362240.jpg",
+    "miniaturas": [],
+    "fichaTecnica": "/fichas/000104/ficha_1766543362251.pdf"
+  },
+  "000071": {
+    "imagenPrincipal": "/imagenes/motos/000071/corven_mirage_110_rt_r2_blanca_1766543682823.jpg",
+    "miniaturas": [],
+    "fichaTecnica": "/fichas/000071/ficha_1766543682844.pdf"
+  },
+  "000072": {
+    "imagenPrincipal": "/imagenes/motos/000072/corven_mirage_110_rt_r2negra_1766543693182.jpg",
+    "miniaturas": [],
+    "fichaTecnica": "/fichas/000072/ficha_1766543693193.pdf"
+  },
+  "000073": {
+    "imagenPrincipal": "/imagenes/motos/000073/corven_mirage_110_rt_r2_gris_1766543704367.jpg",
+    "miniaturas": [],
+    "fichaTecnica": "/fichas/000073/ficha_1766543704377.pdf"
+  },
+  "000074": {
+    "imagenPrincipal": "/imagenes/motos/000074/corven_mirage_110_ad_r2_blanca_1766543924305.jpg",
+    "miniaturas": [],
+    "fichaTecnica": "/fichas/000074/ficha_1766543924314.pdf"
+  },
+  "000075": {
+    "imagenPrincipal": "/imagenes/motos/000075/corven_mirage_110_ad_r2_negra_1766543936706.jpg",
+    "miniaturas": [],
+    "fichaTecnica": "/fichas/000075/ficha_1766543936717.pdf"
+  },
+  "000076": {
+    "imagenPrincipal": "/imagenes/motos/000076/corven_mirage_110_ad_r2_gris_1766543946434.jpg",
+    "miniaturas": [],
+    "fichaTecnica": "/fichas/000076/ficha_1766543946445.pdf"
+  },
+  "000249": {
+    "imagenPrincipal": "/imagenes/motos/000249/gilera_electrica_blanca_1766544458752.jpg",
+    "miniaturas": [],
+    "fichaTecnica": null
+  },
+  "000250": {
+    "imagenPrincipal": "/imagenes/motos/000250/gilera_electrica_roja_1766544471604.jpg",
+    "miniaturas": [],
+    "fichaTecnica": null
+  },
+  "000251": {
+    "imagenPrincipal": "/imagenes/motos/000251/gilera_electrica_verde_1766544483527.jpg",
+    "miniaturas": [],
+    "fichaTecnica": null
+  },
+  "01845": {
+    "imagenPrincipal": "/imagenes/motos/01845/azul_1766545094038.jpg",
+    "miniaturas": [
+      "/imagenes/motos/01845/detalle_1_1766545094052.webp",
+      "/imagenes/motos/01845/detalle_2_1766545094053.webp",
+      "/imagenes/motos/01845/detalle_3_1766545094053.webp",
+      "/imagenes/motos/01845/detalle_1766545094054.webp"
+    ],
+    "fichaTecnica": "/fichas/01845/ficha_1766545094068.pdf"
+  },
+  "01846": {
+    "imagenPrincipal": "/imagenes/motos/01846/gris_mate_1766545305144.jpg",
+    "miniaturas": [],
+    "fichaTecnica": "/fichas/01846/ficha_1766545305154.pdf"
+  },
+  "01847": {
+    "imagenPrincipal": "/imagenes/motos/01847/gris_nardo_1766545313351.jpg",
+    "miniaturas": [],
+    "fichaTecnica": "/fichas/01847/ficha_1766545313368.pdf"
+  },
+  "01848": {
+    "imagenPrincipal": "/imagenes/motos/01848/GILERA_SMASH_FULL_180_ROJA_png_1766545323259.webp",
+    "miniaturas": [],
+    "fichaTecnica": "/fichas/01848/ficha_1766545323270.pdf"
+  },
+  "01849": {
+    "imagenPrincipal": "/imagenes/motos/01849/smash_110_vs_azul_1766545922242.jpg",
+    "miniaturas": [
+      "/imagenes/motos/01849/detalle_1_1766545922256.webp",
+      "/imagenes/motos/01849/detalle_2_1766545922257.webp",
+      "/imagenes/motos/01849/detalle_3_1766545922258.webp",
+      "/imagenes/motos/01849/detalle_1766545922259.webp"
+    ],
+    "fichaTecnica": "/fichas/01849/ficha_1766545922271.pdf"
+  },
+  "01850": {
+    "imagenPrincipal": "/imagenes/motos/01850/smash_110_vs_gris_1766545965336.jpg",
+    "miniaturas": [],
+    "fichaTecnica": "/fichas/01850/ficha_1766545965347.pdf"
+  },
+  "01851": {
+    "imagenPrincipal": "/imagenes/motos/01851/smash_110_vs_roja_1766545975465.jpg",
+    "miniaturas": [],
+    "fichaTecnica": "/fichas/01851/ficha_1766545975475.pdf"
+  },
+  "01852": {
+    "imagenPrincipal": "/imagenes/motos/01852/marron_1766546257125.jpg",
+    "miniaturas": [
+      "/imagenes/motos/01852/detalle_2_1766546257139.webp",
+      "/imagenes/motos/01852/detalle_3_1766546257139.webp",
+      "/imagenes/motos/01852/detalle_4_1766546257140.webp",
+      "/imagenes/motos/01852/detalle1_1766546257140.webp"
+    ],
+    "fichaTecnica": "/fichas/01852/ficha_1766546257154.pdf"
+  },
+  "01853": {
+    "imagenPrincipal": "/imagenes/motos/01853/roja_1766546271187.jpg",
+    "miniaturas": [],
+    "fichaTecnica": "/fichas/01853/ficha_1766546271196.pdf"
+  },
+  "02291": {
+    "imagenPrincipal": "/imagenes/motos/02291/azul_1766546294418.jpg",
+    "miniaturas": [],
+    "fichaTecnica": "/fichas/02291/ficha_1766546294429.pdf"
+  },
+  "02313": {
+    "imagenPrincipal": "/imagenes/motos/02313/gris_1766546308901.jpg",
+    "miniaturas": [],
+    "fichaTecnica": "/fichas/02313/ficha_1766546308910.pdf"
+  },
+  "01854": {
+    "imagenPrincipal": "/imagenes/motos/01854/azul_1766546676615.jpg",
+    "miniaturas": [
+      "/imagenes/motos/01854/detalle_1_1766546676630.webp",
+      "/imagenes/motos/01854/detalle_2_1766546676630.webp",
+      "/imagenes/motos/01854/detalle_3_1766546676631.webp",
+      "/imagenes/motos/01854/detalle_1766546676632.webp"
+    ],
+    "fichaTecnica": "/fichas/01854/ficha_1766546676648.pdf"
+  },
+  "01855": {
+    "imagenPrincipal": "/imagenes/motos/01855/gris_1766546690826.jpg",
+    "miniaturas": [],
+    "fichaTecnica": "/fichas/01855/ficha_1766546690837.pdf"
+  },
+  "01856": {
+    "imagenPrincipal": "/imagenes/motos/01856/marron_1766546698877.jpg",
+    "miniaturas": [],
+    "fichaTecnica": "/fichas/01856/ficha_1766546698888.pdf"
+  },
+  "01857": {
+    "imagenPrincipal": "/imagenes/motos/01857/roja_1766546706449.jpg",
+    "miniaturas": [],
+    "fichaTecnica": "/fichas/01857/ficha_1766546706460.pdf"
+  },
+  "01858": {
+    "imagenPrincipal": "/imagenes/motos/01858/negra_1766546983259.jpg",
+    "miniaturas": [
+      "/imagenes/motos/01858/detalle_1_1766546983272.webp",
+      "/imagenes/motos/01858/detalle_2_1766546983273.webp",
+      "/imagenes/motos/01858/detalle_3_1766546983274.webp",
+      "/imagenes/motos/01858/detalle_1766546983275.webp"
+    ],
+    "fichaTecnica": "/fichas/01858/ficha_1766546983286.pdf"
+  },
+  "01859": {
+    "imagenPrincipal": "/imagenes/motos/01859/roja_1766546993987.jpg",
+    "miniaturas": [],
+    "fichaTecnica": "/fichas/01859/ficha_1766546993998.pdf"
+  },
+  "02235": {
+    "imagenPrincipal": "/imagenes/motos/02235/roja_1766547532898.jpg",
+    "miniaturas": [
+      "/imagenes/motos/02235/detalle_1_1766547532912.webp",
+      "/imagenes/motos/02235/detalle_2_1766547532913.webp",
+      "/imagenes/motos/02235/detalle_3_1766547532913.webp",
+      "/imagenes/motos/02235/detalle_1766547532914.webp"
+    ],
+    "fichaTecnica": "/fichas/02235/ficha_1766547532927.pdf"
+  },
+  "02237": {
+    "imagenPrincipal": "/imagenes/motos/02237/negra_1766547556919.jpg",
+    "miniaturas": [],
+    "fichaTecnica": "/fichas/02237/ficha_1766547556932.pdf"
+  },
+  "01875": {
+    "imagenPrincipal": "/imagenes/motos/01875/naranja_1766547847079.jpg",
+    "miniaturas": [
+      "/imagenes/motos/01875/detalle_1_1766547847095.webp",
+      "/imagenes/motos/01875/detalle_2_1766547847096.webp",
+      "/imagenes/motos/01875/detalle_3_1766547847097.webp",
+      "/imagenes/motos/01875/detalle_1766547847098.webp"
+    ],
+    "fichaTecnica": null
+  },
+  "02234": {
+    "imagenPrincipal": "/imagenes/motos/02234/gris_1766547868297.webp",
+    "miniaturas": [],
+    "fichaTecnica": null
+  },
+  "02362": {
+    "imagenPrincipal": "/imagenes/motos/02362/descarga_1766548009345.jpg",
+    "miniaturas": [],
+    "fichaTecnica": null
+  },
+  "000266": {
+    "imagenPrincipal": "/imagenes/motos/000266/azul_1766549806840.png",
+    "miniaturas": [
+      "/imagenes/motos/000266/detalle_1766549806860.png",
+      "/imagenes/motos/000266/detalle_1_1766549806868.png",
+      "/imagenes/motos/000266/detalle_3_1766549806876.png"
+    ],
+    "fichaTecnica": "/fichas/000266/ficha_1766549806894.pdf"
+  },
+  "000264": {
+    "imagenPrincipal": "/imagenes/motos/000264/blanca_1766549825104.png",
+    "miniaturas": [],
+    "fichaTecnica": "/fichas/000264/ficha_1766549825118.pdf"
+  },
+  "000265": {
+    "imagenPrincipal": "/imagenes/motos/000265/rojo_1766549834613.png",
+    "miniaturas": [],
+    "fichaTecnica": "/fichas/000265/ficha_1766549834630.pdf"
+  },
+  "000267": {
+    "imagenPrincipal": "/imagenes/motos/000267/negra_1766549850261.png",
+    "miniaturas": [],
+    "fichaTecnica": "/fichas/000267/ficha_1766549850277.pdf"
+  },
+  "000318": {
+    "imagenPrincipal": "/imagenes/cascos/000318/182322-800-auto_1766566325864.png",
+    "miniaturas": [
+      "/imagenes/cascos/000318/182323-800-auto_1766566325946.webp",
+      "/imagenes/cascos/000318/182324-800-auto_1766566325948.webp",
+      "/imagenes/cascos/000318/casco_1766566325952.webp"
+    ],
+    "fichaTecnica": null
+  },
+  "000319": {
+    "imagenPrincipal": "/imagenes/cascos/000319/182322-800-auto_1766566375897.png",
+    "miniaturas": [],
+    "fichaTecnica": null
+  },
+  "000320": {
+    "imagenPrincipal": "/imagenes/cascos/000320/182322-800-auto_1766566411713.png",
+    "miniaturas": [],
+    "fichaTecnica": null
+  },
+  "000321": {
+    "imagenPrincipal": "/imagenes/cascos/000321/182322-800-auto_1766566445638.png",
+    "miniaturas": [],
+    "fichaTecnica": null
+  },
+  "000322": {
+    "imagenPrincipal": "/imagenes/cascos/000322/182322-800-auto_1766566474067.png",
+    "miniaturas": [],
+    "fichaTecnica": null
+  }
+}

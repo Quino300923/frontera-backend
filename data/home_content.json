@@ -1,0 +1,222 @@
+{
+  "bannersPrincipales": [
+    {
+      "id": "banner-1763486857793",
+      "activo": true,
+      "imagen": "/imagenes/home/bannersPrincipales/1763486857633.png",
+      "alt": "Banner Home",
+      "link": "/html/motos.html",
+      "orden": 1
+    },
+    {
+      "id": "banner-1763486862863",
+      "activo": true,
+      "imagen": "/imagenes/home/bannersPrincipales/1763486862703.jpg",
+      "alt": "Banner Home",
+      "link": "/html/motos.html",
+      "orden": 2
+    }
+  ],
+  "marcas": [
+    {
+      "id": "bajaj",
+      "activo": true,
+      "imagen": "/imagenes/img_marcas/bajaj.png",
+      "alt": "Bajaj",
+      "link": "/html/motos.html?marca=Bajaj",
+      "orden": 1
+    },
+    {
+      "id": "benelli",
+      "activo": true,
+      "imagen": "/imagenes/img_marcas/Benelli_2016_logo.png",
+      "alt": "Benelli",
+      "link": "/html/motos.html?marca=Benelli",
+      "orden": 2
+    },
+    {
+      "id": "corven",
+      "activo": true,
+      "imagen": "/imagenes/img_marcas/corven.png",
+      "alt": "Corven",
+      "link": "/html/motos.html?marca=Corven",
+      "orden": 3
+    },
+    {
+      "id": "marca-1763498772637",
+      "activo": true,
+      "imagen": "/imagenes/home/marcas/1763498772605.png",
+      "alt": "Gilera",
+      "link": "/html/motos.html?marca=Gilera",
+      "orden": 4
+    },
+    {
+      "id": "marca-1763498785966",
+      "activo": true,
+      "imagen": "/imagenes/home/marcas/1763498785948.png",
+      "alt": "Hero",
+      "link": "/html/motos.html?marca=Hero",
+      "orden": 5
+    },
+    {
+      "id": "marca-1763498832853",
+      "activo": true,
+      "imagen": "/imagenes/home/marcas/1763498832830.png",
+      "alt": "Suzuki",
+      "link": "/html/motos.html?marca=Suzuki",
+      "orden": 6
+    },
+    {
+      "id": "marca-1763498843822",
+      "activo": true,
+      "imagen": "/imagenes/home/marcas/1763498843793.png",
+      "alt": "Motomel",
+      "link": "/html/motos.html?marca=Motomel",
+      "orden": 7
+    },
+    {
+      "id": "marca-1763498856474",
+      "activo": true,
+      "imagen": "/imagenes/home/marcas/1763498856446.png",
+      "alt": "Tvs",
+      "link": "/html/motos.html?marca=Tvs",
+      "orden": 8
+    },
+    {
+      "id": "marca-1763561890787",
+      "activo": true,
+      "imagen": "/imagenes/home/marcas/1763561890706.png",
+      "alt": "marca",
+      "link": "/html/motos.html?marca=marca",
+      "orden": 9
+    }
+  ],
+  "categoriasDestacadas": [
+    {
+      "id": "cat-1763563198546",
+      "activo": true,
+      "imagen": "/imagenes/home/categoriasDestacadas/1763563198521.jpg",
+      "titulo": "Motos",
+      "link": "/html/motos.html",
+      "orden": 1
+    },
+    {
+      "id": "cat-1763563209000",
+      "activo": true,
+      "imagen": "/imagenes/home/categoriasDestacadas/1763563208982.jpg",
+      "titulo": "Cascos",
+      "link": "/html/cascos.html",
+      "orden": 2
+    },
+    {
+      "id": "cat-1763563230986",
+      "activo": true,
+      "imagen": "/imagenes/home/categoriasDestacadas/1763563230946.jpg",
+      "titulo": "Accesorios",
+      "link": "/html/accesorios.html",
+      "orden": 3
+    },
+    {
+      "id": "cat-1763563241402",
+      "activo": true,
+      "imagen": "/imagenes/home/categoriasDestacadas/1763563241386.jpg",
+      "titulo": "Indumentaria",
+      "link": "/html/indumentaria.html",
+      "orden": 4
+    },
+    {
+      "id": "cat-1763563259200",
+      "activo": true,
+      "imagen": "/imagenes/home/categoriasDestacadas/1763563259182.jpg",
+      "titulo": "Repuestos",
+      "link": "/html/repuestos.html",
+      "orden": 5
+    }
+  ],
+  "bannersTriples": [
+    {
+      "id": "triple-1763664822939",
+      "activo": true,
+      "imagen": "/imagenes/home/bannersTriples/1763664822895.jpg",
+      "titulo": "Motos",
+      "descripcion": "",
+      "link": "/html/motos.html",
+      "orden": 1
+    },
+    {
+      "id": "triple-1763664854691",
+      "activo": true,
+      "imagen": "/imagenes/home/bannersTriples/1763664854662.jpg",
+      "titulo": "Indumentaria",
+      "descripcion": "",
+      "link": "/html/indumentaria.html",
+      "orden": 2
+    },
+    {
+      "id": "triple-1763664868995",
+      "activo": true,
+      "imagen": "/imagenes/home/bannersTriples/1763664868967.jpg",
+      "titulo": "cascos",
+      "descripcion": "",
+      "link": "/html/cascos.html",
+      "orden": 3
+    }
+  ],
+  "videoHome": {
+    "activo": true,
+    "archivo": "/imagenes/videos/TRK-702X.mp4",
+    "titulo": "CAMINOS A NUEVAS FRONTERAS",
+    "subtitulo": "Viví la experiencia Frontera Center",
+    "link": "/html/motos.html"
+  },
+  "bannerOfertas": {
+    "activo": true,
+    "imagen": "/imagenes/home/ofertas/oferta_1766568578903.png",
+    "titulo": "",
+    "boton": "",
+    "link": "#"
+  },
+  "productosDestacados": [
+    {
+      "categoria": "motos",
+      "codigo": "01845"
+    },
+    {
+      "categoria": "motos",
+      "codigo": "01207"
+    },
+    {
+      "categoria": "motos",
+      "codigo": "01532"
+    }
+  ],
+  "bannersSecciones": {
+    "motos": "/imagenes/home/secciones/motos/1763734832404.png",
+    "cascos": "",
+    "indumentaria": "",
+    "accesorios": "",
+    "repuestos": ""
+  },
+  "carruselDestacados": {
+    "ocultarPrecios": false,
+    "redondearPrecios": true
+  },
+  "ajustesPrecios": {
+    "ocultar": {
+      "global": false,
+      "motos": false,
+      "cascos": false,
+      "indumentaria": false,
+      "accesorios": false,
+      "repuestos": false
+    },
+    "redondeo": {
+      "global": false,
+      "motos": false,
+      "cascos": false,
+      "indumentaria": false,
+      "accesorios": false,
+      "repuestos": false
+    }
+  }
+}

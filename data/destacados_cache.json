@@ -1,0 +1,29 @@
+{
+  "lastUpdate": 1766797124285,
+  "items": [
+    {
+      "categoria": "motos",
+      "codigo": "1845",
+      "descripcion": "GILERA SMASH 110 FULL CBS COLOR AZUL",
+      "marca": "GILERA",
+      "precioFinal": 2337033.342061,
+      "imagenPrincipal": "/imagenes/motos/01845/azul_1766545094038.jpg"
+    },
+    {
+      "categoria": "motos",
+      "codigo": "1207",
+      "descripcion": "SUZUKI AX100 COLOR AZUL",
+      "marca": "SUZUKI",
+      "precioFinal": 2680411.7969963397,
+      "imagenPrincipal": "/imagenes/motos/01207/LATIN_AMERICA_AX100_Blue_Right_1763177602869.png"
+    },
+    {
+      "categoria": "motos",
+      "codigo": "1532",
+      "descripcion": "CASCO MOTO REBATIBLE MAC FF166 MONARCH BK/GY/RD GS TALLE M",
+      "marca": "MAC",
+      "precioFinal": 166600.00433999998,
+      "imagenPrincipal": "/imagenes/img_logo/img_logo_fr.png"
+    }
+  ]
+}
