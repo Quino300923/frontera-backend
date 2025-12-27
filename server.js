@@ -444,8 +444,15 @@ app.use("/fichas", express.static(FICHAS_DIR));
 
 app.use(express.static(PUBLIC_HTML_PATH));
 
+//app.get("/", (req, res) => {
+  //res.sendFile(path.join(PUBLIC_HTML_PATH, "html", "index.html"));
+//});
 app.get("/", (req, res) => {
-  res.sendFile(path.join(PUBLIC_HTML_PATH, "html", "index.html"));
+  res.json({
+    ok: true,
+    mensaje: "Backend Frontera Center activo",
+    estado: "online"
+  });
 });
 
 
